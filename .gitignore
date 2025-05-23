@@ -60,8 +60,23 @@ build/
 .DS_Store
 Thumbs.db
 
-# Large data files
+# Data files
 data/raw/*.csv
 data/raw/*.xlsx
 data/raw/*.xls
-data/raw/*.parquet 
+data/raw/*.parquet
+data/raw/*.h5
+data/raw/*.hdf5
+data/raw/*.db
+
+# Keep only sample data files
+!data/raw/sample_*.csv
+!data/raw/sample_*.parquet
+
+# Processed data
+data/processed/*.csv
+data/processed/*.xlsx
+data/processed/*.parquet
+data/processed/*.h5
+data/processed/*.hdf5
+data/processed/*.db 
