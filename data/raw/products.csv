@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,unit_price,cost,created_date,modified_date
+P0001,Product 1,Toys,Subcategory 1,Brand 1,399.12,400.82,2020-01-01,2020-01-01
+P0002,Product 2,Beauty,Subcategory 2,Brand 2,596.43,344.82,2020-01-02,2020-01-02
+P0003,Product 3,Electronics,Subcategory 3,Brand 3,377.84,349.54,2020-01-03,2020-01-03
+P0004,Product 4,Toys,Subcategory 4,Brand 4,44.89,434.35,2020-01-04,2020-01-04
+P0005,Product 5,Clothing,Subcategory 5,Brand 5,567.65,305.65,2020-01-05,2020-01-05
+P0006,Product 6,Food,Subcategory 6,Brand 6,879.85,186.71,2020-01-06,2020-01-06
+P0007,Product 7,Books,Subcategory 7,Brand 7,844.16,413.99,2020-01-07,2020-01-07
+P0008,Product 8,Beauty,Subcategory 8,Brand 8,797.04,364.62,2020-01-08,2020-01-08
+P0009,Product 9,Toys,Subcategory 9,Brand 9,30.09,354.39,2020-01-09,2020-01-09
+P0010,Product 10,Home & Garden,Subcategory 10,Brand 10,349.27,303.25,2020-01-10,2020-01-10
+P0011,Product 11,Toys,Subcategory 11,Brand 11,210.57,436.21,2020-01-11,2020-01-11
+P0012,Product 12,Electronics,Subcategory 12,Brand 12,290.65,446.8,2020-01-12,2020-01-12
+P0013,Product 13,Beauty,Subcategory 13,Brand 13,246.54,463.47,2020-01-13,2020-01-13
+P0014,Product 14,Sports,Subcategory 14,Brand 14,634.44,204.07,2020-01-14,2020-01-14
+P0015,Product 15,Books,Subcategory 15,Brand 15,114.5,270.26,2020-01-15,2020-01-15
+P0016,Product 16,Beauty,Subcategory 16,Brand 16,924.49,443.55,2020-01-16,2020-01-16
+P0017,Product 17,Home & Garden,Subcategory 17,Brand 17,337.85,14.2,2020-01-17,2020-01-17
+P0018,Product 18,Food,Subcategory 18,Brand 18,239.24,266.76,2020-01-18,2020-01-18
+P0019,Product 19,Electronics,Subcategory 19,Brand 19,631.75,274.39,2020-01-19,2020-01-19
+P0020,Product 20,Beauty,Subcategory 20,Brand 20,539.74,303.44,2020-01-20,2020-01-20
+P0021,Product 21,Sports,Subcategory 21,Brand 21,716.72,58.46,2020-01-21,2020-01-21
+P0022,Product 22,Books,Subcategory 22,Brand 22,390.87,151.43,2020-01-22,2020-01-22
+P0023,Product 23,Home & Garden,Subcategory 23,Brand 23,959.76,276.54,2020-01-23,2020-01-23
+P0024,Product 24,Electronics,Subcategory 24,Brand 24,404.83,414.48,2020-01-24,2020-01-24
+P0025,Product 25,Beauty,Subcategory 25,Brand 25,258.81,116.68,2020-01-25,2020-01-25
+P0026,Product 26,Clothing,Subcategory 26,Brand 26,311.43,499.46,2020-01-26,2020-01-26
+P0027,Product 27,Toys,Subcategory 27,Brand 27,320.08,443.05,2020-01-27,2020-01-27
+P0028,Product 28,Home & Garden,Subcategory 28,Brand 28,274.17,212.67,2020-01-28,2020-01-28
+P0029,Product 29,Clothing,Subcategory 29,Brand 29,128.24,410.29,2020-01-29,2020-01-29
+P0030,Product 30,Clothing,Subcategory 30,Brand 30,587.31,199.67,2020-01-30,2020-01-30
+P0031,Product 31,Books,Subcategory 31,Brand 31,764.19,404.19,2020-01-31,2020-01-31
+P0032,Product 32,Sports,Subcategory 32,Brand 32,759.01,50.97,2020-02-01,2020-02-01
+P0033,Product 33,Beauty,Subcategory 33,Brand 33,102.74,312.57,2020-02-02,2020-02-02
+P0034,Product 34,Books,Subcategory 34,Brand 34,98.56,428.89,2020-02-03,2020-02-03
+P0035,Product 35,Clothing,Subcategory 35,Brand 35,75.74,229.64,2020-02-04,2020-02-04
+P0036,Product 36,Food,Subcategory 36,Brand 36,165.66,410.24,2020-02-05,2020-02-05
+P0037,Product 37,Books,Subcategory 37,Brand 37,875.33,155.89,2020-02-06,2020-02-06
+P0038,Product 38,Beauty,Subcategory 38,Brand 38,963.95,206.2,2020-02-07,2020-02-07
+P0039,Product 39,Books,Subcategory 39,Brand 39,280.49,395.41,2020-02-08,2020-02-08
+P0040,Product 40,Toys,Subcategory 40,Brand 40,142.3,169.39,2020-02-09,2020-02-09
+P0041,Product 41,Clothing,Subcategory 41,Brand 41,177.49,463.04,2020-02-10,2020-02-10
+P0042,Product 42,Home & Garden,Subcategory 42,Brand 42,335.74,399.94,2020-02-11,2020-02-11
+P0043,Product 43,Home & Garden,Subcategory 43,Brand 43,355.67,390.1,2020-02-12,2020-02-12
+P0044,Product 44,Toys,Subcategory 44,Brand 44,506.29,363.08,2020-02-13,2020-02-13
+P0045,Product 45,Electronics,Subcategory 45,Brand 45,807.16,439.91,2020-02-14,2020-02-14
+P0046,Product 46,Food,Subcategory 46,Brand 46,294.36,443.55,2020-02-15,2020-02-15
+P0047,Product 47,Home & Garden,Subcategory 47,Brand 47,897.84,405.88,2020-02-16,2020-02-16
+P0048,Product 48,Books,Subcategory 48,Brand 48,313.4,498.51,2020-02-17,2020-02-17
+P0049,Product 49,Electronics,Subcategory 49,Brand 49,317.96,302.21,2020-02-18,2020-02-18
+P0050,Product 50,Home & Garden,Subcategory 50,Brand 50,31.26,287.35,2020-02-19,2020-02-19
+P0051,Product 51,Food,Subcategory 51,Brand 1,82.93,65.82,2020-02-20,2020-02-20
+P0052,Product 52,Food,Subcategory 52,Brand 2,933.78,195.2,2020-02-21,2020-02-21
+P0053,Product 53,Books,Subcategory 53,Brand 3,592.87,394.32,2020-02-22,2020-02-22
+P0054,Product 54,Books,Subcategory 54,Brand 4,491.12,11.48,2020-02-23,2020-02-23
+P0055,Product 55,Clothing,Subcategory 55,Brand 5,372.45,360.82,2020-02-24,2020-02-24
+P0056,Product 56,Books,Subcategory 56,Brand 6,704.57,101.96,2020-02-25,2020-02-25
+P0057,Product 57,Food,Subcategory 57,Brand 7,388.94,485.49,2020-02-26,2020-02-26
+P0058,Product 58,Food,Subcategory 58,Brand 8,644.28,175.62,2020-02-27,2020-02-27
+P0059,Product 59,Food,Subcategory 59,Brand 9,990.17,233.11,2020-02-28,2020-02-28
+P0060,Product 60,Sports,Subcategory 60,Brand 10,217.67,108.64,2020-02-29,2020-02-29
+P0061,Product 61,Sports,Subcategory 61,Brand 11,707.83,99.37,2020-03-01,2020-03-01
+P0062,Product 62,Books,Subcategory 62,Brand 12,978.83,297.96,2020-03-02,2020-03-02
+P0063,Product 63,Toys,Subcategory 63,Brand 13,465.65,45.86,2020-03-03,2020-03-03
+P0064,Product 64,Food,Subcategory 64,Brand 14,225.48,137.96,2020-03-04,2020-03-04
+P0065,Product 65,Toys,Subcategory 65,Brand 15,210.7,263.82,2020-03-05,2020-03-05
+P0066,Product 66,Beauty,Subcategory 66,Brand 16,802.25,379.79,2020-03-06,2020-03-06
+P0067,Product 67,Beauty,Subcategory 67,Brand 17,521.39,486.47,2020-03-07,2020-03-07
+P0068,Product 68,Sports,Subcategory 68,Brand 18,385.27,49.2,2020-03-08,2020-03-08
+P0069,Product 69,Sports,Subcategory 69,Brand 19,309.82,433.61,2020-03-09,2020-03-09
+P0070,Product 70,Books,Subcategory 70,Brand 20,296.1,212.37,2020-03-10,2020-03-10
+P0071,Product 71,Sports,Subcategory 71,Brand 21,549.0,485.4,2020-03-11,2020-03-11
+P0072,Product 72,Electronics,Subcategory 72,Brand 22,707.22,450.36,2020-03-12,2020-03-12
+P0073,Product 73,Beauty,Subcategory 73,Brand 23,398.35,177.6,2020-03-13,2020-03-13
+P0074,Product 74,Food,Subcategory 74,Brand 24,987.32,146.47,2020-03-14,2020-03-14
+P0075,Product 75,Toys,Subcategory 75,Brand 25,479.0,417.5,2020-03-15,2020-03-15
+P0076,Product 76,Home & Garden,Subcategory 76,Brand 26,614.36,159.6,2020-03-16,2020-03-16
+P0077,Product 77,Books,Subcategory 77,Brand 27,408.92,296.58,2020-03-17,2020-03-17
+P0078,Product 78,Toys,Subcategory 78,Brand 28,404.36,425.28,2020-03-18,2020-03-18
+P0079,Product 79,Toys,Subcategory 79,Brand 29,840.35,497.75,2020-03-19,2020-03-19
+P0080,Product 80,Sports,Subcategory 80,Brand 30,492.03,58.81,2020-03-20,2020-03-20
+P0081,Product 81,Toys,Subcategory 81,Brand 31,995.77,130.94,2020-03-21,2020-03-21
+P0082,Product 82,Sports,Subcategory 82,Brand 32,454.57,69.78,2020-03-22,2020-03-22
+P0083,Product 83,Books,Subcategory 83,Brand 33,82.7,50.92,2020-03-23,2020-03-23
+P0084,Product 84,Beauty,Subcategory 84,Brand 34,491.66,480.73,2020-03-24,2020-03-24
+P0085,Product 85,Books,Subcategory 85,Brand 35,361.74,353.5,2020-03-25,2020-03-25
+P0086,Product 86,Books,Subcategory 86,Brand 36,830.03,349.67,2020-03-26,2020-03-26
+P0087,Product 87,Sports,Subcategory 87,Brand 37,983.02,231.7,2020-03-27,2020-03-27
+P0088,Product 88,Beauty,Subcategory 88,Brand 38,947.63,123.16,2020-03-28,2020-03-28
+P0089,Product 89,Beauty,Subcategory 89,Brand 39,781.92,449.63,2020-03-29,2020-03-29
+P0090,Product 90,Toys,Subcategory 90,Brand 40,769.63,49.87,2020-03-30,2020-03-30
+P0091,Product 91,Books,Subcategory 91,Brand 41,323.62,99.18,2020-03-31,2020-03-31
+P0092,Product 92,Home & Garden,Subcategory 92,Brand 42,744.92,295.76,2020-04-01,2020-04-01
+P0093,Product 93,Beauty,Subcategory 93,Brand 43,972.69,166.45,2020-04-02,2020-04-02
+P0094,Product 94,Beauty,Subcategory 94,Brand 44,86.11,436.39,2020-04-03,2020-04-03
+P0095,Product 95,Beauty,Subcategory 95,Brand 45,798.13,442.8,2020-04-04,2020-04-04
+P0096,Product 96,Food,Subcategory 96,Brand 46,553.48,285.9,2020-04-05,2020-04-05
+P0097,Product 97,Toys,Subcategory 97,Brand 47,739.79,395.53,2020-04-06,2020-04-06
+P0098,Product 98,Books,Subcategory 98,Brand 48,229.51,256.42,2020-04-07,2020-04-07
+P0099,Product 99,Clothing,Subcategory 99,Brand 49,774.52,114.52,2020-04-08,2020-04-08
+P0100,Product 100,Beauty,Subcategory 100,Brand 50,441.93,455.74,2020-04-09,2020-04-09
+P0101,Product 101,Toys,Subcategory 101,Brand 1,650.38,431.08,2020-04-10,2020-04-10
+P0102,Product 102,Sports,Subcategory 102,Brand 2,273.5,406.47,2020-04-11,2020-04-11
+P0103,Product 103,Toys,Subcategory 103,Brand 3,399.11,145.38,2020-04-12,2020-04-12
+P0104,Product 104,Toys,Subcategory 104,Brand 4,722.89,93.97,2020-04-13,2020-04-13
+P0105,Product 105,Food,Subcategory 105,Brand 5,200.41,146.03,2020-04-14,2020-04-14
+P0106,Product 106,Home & Garden,Subcategory 106,Brand 6,826.96,235.07,2020-04-15,2020-04-15
+P0107,Product 107,Home & Garden,Subcategory 107,Brand 7,563.45,490.99,2020-04-16,2020-04-16
+P0108,Product 108,Electronics,Subcategory 108,Brand 8,533.13,225.42,2020-04-17,2020-04-17
+P0109,Product 109,Books,Subcategory 109,Brand 9,572.89,76.23,2020-04-18,2020-04-18
+P0110,Product 110,Clothing,Subcategory 110,Brand 10,583.4,91.28,2020-04-19,2020-04-19
+P0111,Product 111,Beauty,Subcategory 111,Brand 11,815.1,187.46,2020-04-20,2020-04-20
+P0112,Product 112,Electronics,Subcategory 112,Brand 12,723.48,357.19,2020-04-21,2020-04-21
+P0113,Product 113,Beauty,Subcategory 113,Brand 13,479.75,433.17,2020-04-22,2020-04-22
+P0114,Product 114,Home & Garden,Subcategory 114,Brand 14,326.25,93.36,2020-04-23,2020-04-23
+P0115,Product 115,Toys,Subcategory 115,Brand 15,218.6,154.37,2020-04-24,2020-04-24
+P0116,Product 116,Electronics,Subcategory 116,Brand 16,203.18,498.8,2020-04-25,2020-04-25
+P0117,Product 117,Toys,Subcategory 117,Brand 17,700.76,191.31,2020-04-26,2020-04-26
+P0118,Product 118,Electronics,Subcategory 118,Brand 18,670.2,186.71,2020-04-27,2020-04-27
+P0119,Product 119,Food,Subcategory 119,Brand 19,222.94,77.58,2020-04-28,2020-04-28
+P0120,Product 120,Books,Subcategory 120,Brand 20,673.85,443.06,2020-04-29,2020-04-29
+P0121,Product 121,Food,Subcategory 121,Brand 21,339.65,415.83,2020-04-30,2020-04-30
+P0122,Product 122,Food,Subcategory 122,Brand 22,600.27,468.09,2020-05-01,2020-05-01
+P0123,Product 123,Toys,Subcategory 123,Brand 23,931.96,361.57,2020-05-02,2020-05-02
+P0124,Product 124,Toys,Subcategory 124,Brand 24,597.86,45.63,2020-05-03,2020-05-03
+P0125,Product 125,Books,Subcategory 125,Brand 25,821.79,393.23,2020-05-04,2020-05-04
+P0126,Product 126,Beauty,Subcategory 126,Brand 26,148.43,282.14,2020-05-05,2020-05-05
+P0127,Product 127,Sports,Subcategory 127,Brand 27,785.31,407.65,2020-05-06,2020-05-06
+P0128,Product 128,Electronics,Subcategory 128,Brand 28,62.03,84.35,2020-05-07,2020-05-07
+P0129,Product 129,Clothing,Subcategory 129,Brand 29,784.3,49.82,2020-05-08,2020-05-08
+P0130,Product 130,Books,Subcategory 130,Brand 30,691.73,310.3,2020-05-09,2020-05-09
+P0131,Product 131,Beauty,Subcategory 131,Brand 31,896.78,443.26,2020-05-10,2020-05-10
+P0132,Product 132,Home & Garden,Subcategory 132,Brand 32,39.69,397.49,2020-05-11,2020-05-11
+P0133,Product 133,Books,Subcategory 133,Brand 33,453.03,285.17,2020-05-12,2020-05-12
+P0134,Product 134,Beauty,Subcategory 134,Brand 34,719.89,138.42,2020-05-13,2020-05-13
+P0135,Product 135,Clothing,Subcategory 135,Brand 35,922.93,87.28,2020-05-14,2020-05-14
+P0136,Product 136,Sports,Subcategory 136,Brand 36,641.82,291.76,2020-05-15,2020-05-15
+P0137,Product 137,Beauty,Subcategory 137,Brand 37,202.61,271.83,2020-05-16,2020-05-16
+P0138,Product 138,Sports,Subcategory 138,Brand 38,812.06,163.12,2020-05-17,2020-05-17
+P0139,Product 139,Sports,Subcategory 139,Brand 39,743.43,188.25,2020-05-18,2020-05-18
+P0140,Product 140,Beauty,Subcategory 140,Brand 40,727.34,257.1,2020-05-19,2020-05-19
+P0141,Product 141,Clothing,Subcategory 141,Brand 41,582.18,455.16,2020-05-20,2020-05-20
+P0142,Product 142,Food,Subcategory 142,Brand 42,330.98,203.57,2020-05-21,2020-05-21
+P0143,Product 143,Toys,Subcategory 143,Brand 43,740.44,169.48,2020-05-22,2020-05-22
+P0144,Product 144,Food,Subcategory 144,Brand 44,126.55,457.0,2020-05-23,2020-05-23
+P0145,Product 145,Home & Garden,Subcategory 145,Brand 45,408.95,110.34,2020-05-24,2020-05-24
+P0146,Product 146,Beauty,Subcategory 146,Brand 46,745.44,174.49,2020-05-25,2020-05-25
+P0147,Product 147,Beauty,Subcategory 147,Brand 47,854.02,308.84,2020-05-26,2020-05-26
+P0148,Product 148,Clothing,Subcategory 148,Brand 48,468.5,480.64,2020-05-27,2020-05-27
+P0149,Product 149,Books,Subcategory 149,Brand 49,983.47,49.29,2020-05-28,2020-05-28
+P0150,Product 150,Food,Subcategory 150,Brand 50,937.2,27.91,2020-05-29,2020-05-29
+P0151,Product 151,Beauty,Subcategory 151,Brand 1,412.36,49.49,2020-05-30,2020-05-30
+P0152,Product 152,Food,Subcategory 152,Brand 2,535.28,198.39,2020-05-31,2020-05-31
+P0153,Product 153,Books,Subcategory 153,Brand 3,584.75,141.43,2020-06-01,2020-06-01
+P0154,Product 154,Beauty,Subcategory 154,Brand 4,465.11,269.0,2020-06-02,2020-06-02
+P0155,Product 155,Food,Subcategory 155,Brand 5,334.62,169.67,2020-06-03,2020-06-03
+P0156,Product 156,Beauty,Subcategory 156,Brand 6,960.68,430.24,2020-06-04,2020-06-04
+P0157,Product 157,Toys,Subcategory 157,Brand 7,972.16,231.33,2020-06-05,2020-06-05
+P0158,Product 158,Electronics,Subcategory 158,Brand 8,172.44,380.02,2020-06-06,2020-06-06
+P0159,Product 159,Books,Subcategory 159,Brand 9,887.49,175.97,2020-06-07,2020-06-07
+P0160,Product 160,Electronics,Subcategory 160,Brand 10,388.51,76.01,2020-06-08,2020-06-08
+P0161,Product 161,Clothing,Subcategory 161,Brand 11,940.57,59.89,2020-06-09,2020-06-09
+P0162,Product 162,Beauty,Subcategory 162,Brand 12,964.87,75.11,2020-06-10,2020-06-10
+P0163,Product 163,Home & Garden,Subcategory 163,Brand 13,754.68,358.72,2020-06-11,2020-06-11
+P0164,Product 164,Home & Garden,Subcategory 164,Brand 14,836.87,365.92,2020-06-12,2020-06-12
+P0165,Product 165,Toys,Subcategory 165,Brand 15,292.11,457.13,2020-06-13,2020-06-13
+P0166,Product 166,Sports,Subcategory 166,Brand 16,615.53,253.18,2020-06-14,2020-06-14
+P0167,Product 167,Beauty,Subcategory 167,Brand 17,771.07,408.2,2020-06-15,2020-06-15
+P0168,Product 168,Sports,Subcategory 168,Brand 18,765.25,194.74,2020-06-16,2020-06-16
+P0169,Product 169,Sports,Subcategory 169,Brand 19,932.52,163.62,2020-06-17,2020-06-17
+P0170,Product 170,Food,Subcategory 170,Brand 20,769.84,351.18,2020-06-18,2020-06-18
+P0171,Product 171,Sports,Subcategory 171,Brand 21,961.88,258.75,2020-06-19,2020-06-19
+P0172,Product 172,Beauty,Subcategory 172,Brand 22,774.02,139.4,2020-06-20,2020-06-20
+P0173,Product 173,Toys,Subcategory 173,Brand 23,573.33,281.37,2020-06-21,2020-06-21
+P0174,Product 174,Books,Subcategory 174,Brand 24,778.25,183.86,2020-06-22,2020-06-22
+P0175,Product 175,Electronics,Subcategory 175,Brand 25,532.41,269.76,2020-06-23,2020-06-23
+P0176,Product 176,Clothing,Subcategory 176,Brand 26,285.93,48.05,2020-06-24,2020-06-24
+P0177,Product 177,Sports,Subcategory 177,Brand 27,90.88,253.23,2020-06-25,2020-06-25
+P0178,Product 178,Sports,Subcategory 178,Brand 28,304.22,361.93,2020-06-26,2020-06-26
+P0179,Product 179,Beauty,Subcategory 179,Brand 29,602.12,297.21,2020-06-27,2020-06-27
+P0180,Product 180,Clothing,Subcategory 180,Brand 30,871.16,301.37,2020-06-28,2020-06-28
+P0181,Product 181,Beauty,Subcategory 181,Brand 31,656.39,150.02,2020-06-29,2020-06-29
+P0182,Product 182,Clothing,Subcategory 182,Brand 32,666.72,386.89,2020-06-30,2020-06-30
+P0183,Product 183,Electronics,Subcategory 183,Brand 33,284.66,476.89,2020-07-01,2020-07-01
+P0184,Product 184,Beauty,Subcategory 184,Brand 34,129.38,101.05,2020-07-02,2020-07-02
+P0185,Product 185,Clothing,Subcategory 185,Brand 35,390.17,275.65,2020-07-03,2020-07-03
+P0186,Product 186,Toys,Subcategory 186,Brand 36,984.33,424.62,2020-07-04,2020-07-04
+P0187,Product 187,Beauty,Subcategory 187,Brand 37,410.29,34.52,2020-07-05,2020-07-05
+P0188,Product 188,Books,Subcategory 188,Brand 38,128.01,144.46,2020-07-06,2020-07-06
+P0189,Product 189,Home & Garden,Subcategory 189,Brand 39,404.97,90.01,2020-07-07,2020-07-07
+P0190,Product 190,Food,Subcategory 190,Brand 40,334.37,69.23,2020-07-08,2020-07-08
+P0191,Product 191,Food,Subcategory 191,Brand 41,222.63,193.55,2020-07-09,2020-07-09
+P0192,Product 192,Books,Subcategory 192,Brand 42,781.54,172.38,2020-07-10,2020-07-10
+P0193,Product 193,Toys,Subcategory 193,Brand 43,991.48,35.14,2020-07-11,2020-07-11
+P0194,Product 194,Books,Subcategory 194,Brand 44,702.78,436.4,2020-07-12,2020-07-12
+P0195,Product 195,Electronics,Subcategory 195,Brand 45,831.01,170.62,2020-07-13,2020-07-13
+P0196,Product 196,Beauty,Subcategory 196,Brand 46,549.28,259.95,2020-07-14,2020-07-14
+P0197,Product 197,Food,Subcategory 197,Brand 47,903.79,342.81,2020-07-15,2020-07-15
+P0198,Product 198,Books,Subcategory 198,Brand 48,247.35,435.78,2020-07-16,2020-07-16
+P0199,Product 199,Toys,Subcategory 199,Brand 49,17.26,31.89,2020-07-17,2020-07-17
+P0200,Product 200,Food,Subcategory 200,Brand 50,78.97,277.15,2020-07-18,2020-07-18
+P0201,Product 201,Clothing,Subcategory 201,Brand 1,955.46,425.86,2020-07-19,2020-07-19
+P0202,Product 202,Home & Garden,Subcategory 202,Brand 2,853.45,437.86,2020-07-20,2020-07-20
+P0203,Product 203,Beauty,Subcategory 203,Brand 3,277.08,466.31,2020-07-21,2020-07-21
+P0204,Product 204,Food,Subcategory 204,Brand 4,281.3,224.19,2020-07-22,2020-07-22
+P0205,Product 205,Electronics,Subcategory 205,Brand 5,183.64,244.37,2020-07-23,2020-07-23
+P0206,Product 206,Sports,Subcategory 206,Brand 6,135.62,468.09,2020-07-24,2020-07-24
+P0207,Product 207,Home & Garden,Subcategory 207,Brand 7,438.55,158.82,2020-07-25,2020-07-25
+P0208,Product 208,Food,Subcategory 208,Brand 8,317.41,271.64,2020-07-26,2020-07-26
+P0209,Product 209,Electronics,Subcategory 209,Brand 9,866.58,22.0,2020-07-27,2020-07-27
+P0210,Product 210,Books,Subcategory 210,Brand 10,18.08,12.31,2020-07-28,2020-07-28
+P0211,Product 211,Clothing,Subcategory 211,Brand 11,590.46,10.46,2020-07-29,2020-07-29
+P0212,Product 212,Sports,Subcategory 212,Brand 12,649.45,456.39,2020-07-30,2020-07-30
+P0213,Product 213,Sports,Subcategory 213,Brand 13,751.48,307.8,2020-07-31,2020-07-31
+P0214,Product 214,Books,Subcategory 214,Brand 14,317.78,49.66,2020-08-01,2020-08-01
+P0215,Product 215,Home & Garden,Subcategory 215,Brand 15,101.02,346.0,2020-08-02,2020-08-02
+P0216,Product 216,Food,Subcategory 216,Brand 16,854.57,119.42,2020-08-03,2020-08-03
+P0217,Product 217,Food,Subcategory 217,Brand 17,616.08,346.01,2020-08-04,2020-08-04
+P0218,Product 218,Clothing,Subcategory 218,Brand 18,703.6,245.31,2020-08-05,2020-08-05
+P0219,Product 219,Clothing,Subcategory 219,Brand 19,101.94,460.28,2020-08-06,2020-08-06
+P0220,Product 220,Clothing,Subcategory 220,Brand 20,997.46,140.58,2020-08-07,2020-08-07
+P0221,Product 221,Toys,Subcategory 221,Brand 21,537.02,96.85,2020-08-08,2020-08-08
+P0222,Product 222,Food,Subcategory 222,Brand 22,570.99,21.9,2020-08-09,2020-08-09
+P0223,Product 223,Clothing,Subcategory 223,Brand 23,116.74,90.78,2020-08-10,2020-08-10
+P0224,Product 224,Books,Subcategory 224,Brand 24,296.74,457.81,2020-08-11,2020-08-11
+P0225,Product 225,Beauty,Subcategory 225,Brand 25,487.0,373.17,2020-08-12,2020-08-12
+P0226,Product 226,Electronics,Subcategory 226,Brand 26,250.66,163.48,2020-08-13,2020-08-13
+P0227,Product 227,Beauty,Subcategory 227,Brand 27,707.8,209.08,2020-08-14,2020-08-14
+P0228,Product 228,Home & Garden,Subcategory 228,Brand 28,313.91,9.91,2020-08-15,2020-08-15
+P0229,Product 229,Sports,Subcategory 229,Brand 29,476.04,380.87,2020-08-16,2020-08-16
+P0230,Product 230,Home & Garden,Subcategory 230,Brand 30,272.53,70.54,2020-08-17,2020-08-17
+P0231,Product 231,Beauty,Subcategory 231,Brand 31,634.07,207.73,2020-08-18,2020-08-18
+P0232,Product 232,Home & Garden,Subcategory 232,Brand 32,114.21,44.3,2020-08-19,2020-08-19
+P0233,Product 233,Home & Garden,Subcategory 233,Brand 33,892.64,309.91,2020-08-20,2020-08-20
+P0234,Product 234,Home & Garden,Subcategory 234,Brand 34,387.38,199.54,2020-08-21,2020-08-21
+P0235,Product 235,Food,Subcategory 235,Brand 35,102.06,438.24,2020-08-22,2020-08-22
+P0236,Product 236,Books,Subcategory 236,Brand 36,545.91,357.15,2020-08-23,2020-08-23
+P0237,Product 237,Sports,Subcategory 237,Brand 37,719.91,432.02,2020-08-24,2020-08-24
+P0238,Product 238,Home & Garden,Subcategory 238,Brand 38,761.1,268.87,2020-08-25,2020-08-25
+P0239,Product 239,Electronics,Subcategory 239,Brand 39,283.24,58.29,2020-08-26,2020-08-26
+P0240,Product 240,Books,Subcategory 240,Brand 40,240.15,462.76,2020-08-27,2020-08-27
+P0241,Product 241,Beauty,Subcategory 241,Brand 41,930.84,155.46,2020-08-28,2020-08-28
+P0242,Product 242,Electronics,Subcategory 242,Brand 42,563.1,338.09,2020-08-29,2020-08-29
+P0243,Product 243,Clothing,Subcategory 243,Brand 43,189.33,462.02,2020-08-30,2020-08-30
+P0244,Product 244,Beauty,Subcategory 244,Brand 44,41.28,156.44,2020-08-31,2020-08-31
+P0245,Product 245,Food,Subcategory 245,Brand 45,822.23,422.51,2020-09-01,2020-09-01
+P0246,Product 246,Sports,Subcategory 246,Brand 46,319.1,37.41,2020-09-02,2020-09-02
+P0247,Product 247,Toys,Subcategory 247,Brand 47,454.79,164.77,2020-09-03,2020-09-03
+P0248,Product 248,Toys,Subcategory 248,Brand 48,19.08,214.73,2020-09-04,2020-09-04
+P0249,Product 249,Home & Garden,Subcategory 249,Brand 49,463.71,38.02,2020-09-05,2020-09-05
+P0250,Product 250,Home & Garden,Subcategory 250,Brand 50,907.73,444.64,2020-09-06,2020-09-06
+P0251,Product 251,Electronics,Subcategory 251,Brand 1,72.26,310.94,2020-09-07,2020-09-07
+P0252,Product 252,Sports,Subcategory 252,Brand 2,541.73,360.96,2020-09-08,2020-09-08
+P0253,Product 253,Books,Subcategory 253,Brand 3,477.15,486.62,2020-09-09,2020-09-09
+P0254,Product 254,Books,Subcategory 254,Brand 4,737.94,326.81,2020-09-10,2020-09-10
+P0255,Product 255,Books,Subcategory 255,Brand 5,979.41,459.86,2020-09-11,2020-09-11
+P0256,Product 256,Beauty,Subcategory 256,Brand 6,329.86,148.67,2020-09-12,2020-09-12
+P0257,Product 257,Beauty,Subcategory 257,Brand 7,247.74,199.77,2020-09-13,2020-09-13
+P0258,Product 258,Toys,Subcategory 258,Brand 8,814.08,332.28,2020-09-14,2020-09-14
+P0259,Product 259,Home & Garden,Subcategory 259,Brand 9,496.03,301.04,2020-09-15,2020-09-15
+P0260,Product 260,Toys,Subcategory 260,Brand 10,135.17,295.29,2020-09-16,2020-09-16
+P0261,Product 261,Electronics,Subcategory 261,Brand 11,437.57,354.14,2020-09-17,2020-09-17
+P0262,Product 262,Books,Subcategory 262,Brand 12,888.23,117.88,2020-09-18,2020-09-18
+P0263,Product 263,Beauty,Subcategory 263,Brand 13,284.31,111.27,2020-09-19,2020-09-19
+P0264,Product 264,Home & Garden,Subcategory 264,Brand 14,522.5,412.08,2020-09-20,2020-09-20
+P0265,Product 265,Clothing,Subcategory 265,Brand 15,24.35,214.42,2020-09-21,2020-09-21
+P0266,Product 266,Clothing,Subcategory 266,Brand 16,488.25,207.8,2020-09-22,2020-09-22
+P0267,Product 267,Beauty,Subcategory 267,Brand 17,129.56,323.6,2020-09-23,2020-09-23
+P0268,Product 268,Home & Garden,Subcategory 268,Brand 18,165.63,300.84,2020-09-24,2020-09-24
+P0269,Product 269,Clothing,Subcategory 269,Brand 19,419.5,404.64,2020-09-25,2020-09-25
+P0270,Product 270,Home & Garden,Subcategory 270,Brand 20,568.6,374.63,2020-09-26,2020-09-26
+P0271,Product 271,Home & Garden,Subcategory 271,Brand 21,861.57,495.29,2020-09-27,2020-09-27
+P0272,Product 272,Electronics,Subcategory 272,Brand 22,803.56,64.04,2020-09-28,2020-09-28
+P0273,Product 273,Electronics,Subcategory 273,Brand 23,508.36,300.65,2020-09-29,2020-09-29
+P0274,Product 274,Electronics,Subcategory 274,Brand 24,482.7,337.77,2020-09-30,2020-09-30
+P0275,Product 275,Food,Subcategory 275,Brand 25,25.76,432.42,2020-10-01,2020-10-01
+P0276,Product 276,Electronics,Subcategory 276,Brand 26,516.42,121.27,2020-10-02,2020-10-02
+P0277,Product 277,Clothing,Subcategory 277,Brand 27,199.44,20.39,2020-10-03,2020-10-03
+P0278,Product 278,Sports,Subcategory 278,Brand 28,325.05,245.36,2020-10-04,2020-10-04
+P0279,Product 279,Food,Subcategory 279,Brand 29,52.46,286.78,2020-10-05,2020-10-05
+P0280,Product 280,Electronics,Subcategory 280,Brand 30,385.17,158.94,2020-10-06,2020-10-06
+P0281,Product 281,Sports,Subcategory 281,Brand 31,676.22,272.84,2020-10-07,2020-10-07
+P0282,Product 282,Food,Subcategory 282,Brand 32,918.87,206.76,2020-10-08,2020-10-08
+P0283,Product 283,Toys,Subcategory 283,Brand 33,384.36,160.56,2020-10-09,2020-10-09
+P0284,Product 284,Sports,Subcategory 284,Brand 34,580.46,488.56,2020-10-10,2020-10-10
+P0285,Product 285,Sports,Subcategory 285,Brand 35,246.6,423.0,2020-10-11,2020-10-11
+P0286,Product 286,Sports,Subcategory 286,Brand 36,839.07,147.97,2020-10-12,2020-10-12
+P0287,Product 287,Food,Subcategory 287,Brand 37,747.29,38.54,2020-10-13,2020-10-13
+P0288,Product 288,Electronics,Subcategory 288,Brand 38,648.97,5.63,2020-10-14,2020-10-14
+P0289,Product 289,Clothing,Subcategory 289,Brand 39,325.3,60.65,2020-10-15,2020-10-15
+P0290,Product 290,Beauty,Subcategory 290,Brand 40,126.14,366.78,2020-10-16,2020-10-16
+P0291,Product 291,Toys,Subcategory 291,Brand 41,225.97,54.45,2020-10-17,2020-10-17
+P0292,Product 292,Beauty,Subcategory 292,Brand 42,419.1,398.73,2020-10-18,2020-10-18
+P0293,Product 293,Home & Garden,Subcategory 293,Brand 43,994.73,100.82,2020-10-19,2020-10-19
+P0294,Product 294,Clothing,Subcategory 294,Brand 44,417.2,398.42,2020-10-20,2020-10-20
+P0295,Product 295,Toys,Subcategory 295,Brand 45,341.87,114.03,2020-10-21,2020-10-21
+P0296,Product 296,Books,Subcategory 296,Brand 46,862.78,57.64,2020-10-22,2020-10-22
+P0297,Product 297,Home & Garden,Subcategory 297,Brand 47,209.54,499.6,2020-10-23,2020-10-23
+P0298,Product 298,Electronics,Subcategory 298,Brand 48,624.72,41.5,2020-10-24,2020-10-24
+P0299,Product 299,Sports,Subcategory 299,Brand 49,452.13,444.35,2020-10-25,2020-10-25
+P0300,Product 300,Sports,Subcategory 300,Brand 50,386.66,52.53,2020-10-26,2020-10-26
+P0301,Product 301,Food,Subcategory 301,Brand 1,667.58,460.51,2020-10-27,2020-10-27
+P0302,Product 302,Toys,Subcategory 302,Brand 2,430.12,119.67,2020-10-28,2020-10-28
+P0303,Product 303,Food,Subcategory 303,Brand 3,882.64,17.15,2020-10-29,2020-10-29
+P0304,Product 304,Electronics,Subcategory 304,Brand 4,832.93,89.41,2020-10-30,2020-10-30
+P0305,Product 305,Toys,Subcategory 305,Brand 5,627.53,412.33,2020-10-31,2020-10-31
+P0306,Product 306,Clothing,Subcategory 306,Brand 6,192.36,113.0,2020-11-01,2020-11-01
+P0307,Product 307,Beauty,Subcategory 307,Brand 7,114.74,291.55,2020-11-02,2020-11-02
+P0308,Product 308,Toys,Subcategory 308,Brand 8,838.96,100.13,2020-11-03,2020-11-03
+P0309,Product 309,Food,Subcategory 309,Brand 9,891.96,244.07,2020-11-04,2020-11-04
+P0310,Product 310,Clothing,Subcategory 310,Brand 10,295.92,49.11,2020-11-05,2020-11-05
+P0311,Product 311,Sports,Subcategory 311,Brand 11,540.7,446.58,2020-11-06,2020-11-06
+P0312,Product 312,Electronics,Subcategory 312,Brand 12,670.26,191.05,2020-11-07,2020-11-07
+P0313,Product 313,Food,Subcategory 313,Brand 13,966.83,177.04,2020-11-08,2020-11-08
+P0314,Product 314,Books,Subcategory 314,Brand 14,201.65,426.13,2020-11-09,2020-11-09
+P0315,Product 315,Sports,Subcategory 315,Brand 15,708.54,416.3,2020-11-10,2020-11-10
+P0316,Product 316,Books,Subcategory 316,Brand 16,258.58,55.7,2020-11-11,2020-11-11
+P0317,Product 317,Books,Subcategory 317,Brand 17,979.38,102.93,2020-11-12,2020-11-12
+P0318,Product 318,Books,Subcategory 318,Brand 18,78.5,347.32,2020-11-13,2020-11-13
+P0319,Product 319,Toys,Subcategory 319,Brand 19,888.84,389.33,2020-11-14,2020-11-14
+P0320,Product 320,Home & Garden,Subcategory 320,Brand 20,567.9,46.63,2020-11-15,2020-11-15
+P0321,Product 321,Sports,Subcategory 321,Brand 21,59.73,243.42,2020-11-16,2020-11-16
+P0322,Product 322,Beauty,Subcategory 322,Brand 22,64.49,394.41,2020-11-17,2020-11-17
+P0323,Product 323,Sports,Subcategory 323,Brand 23,454.91,421.22,2020-11-18,2020-11-18
+P0324,Product 324,Toys,Subcategory 324,Brand 24,679.63,82.81,2020-11-19,2020-11-19
+P0325,Product 325,Clothing,Subcategory 325,Brand 25,752.1,188.72,2020-11-20,2020-11-20
+P0326,Product 326,Beauty,Subcategory 326,Brand 26,424.16,281.16,2020-11-21,2020-11-21
+P0327,Product 327,Home & Garden,Subcategory 327,Brand 27,131.64,132.97,2020-11-22,2020-11-22
+P0328,Product 328,Books,Subcategory 328,Brand 28,227.98,77.03,2020-11-23,2020-11-23
+P0329,Product 329,Books,Subcategory 329,Brand 29,58.38,195.85,2020-11-24,2020-11-24
+P0330,Product 330,Home & Garden,Subcategory 330,Brand 30,549.17,93.42,2020-11-25,2020-11-25
+P0331,Product 331,Sports,Subcategory 331,Brand 31,642.9,346.46,2020-11-26,2020-11-26
+P0332,Product 332,Home & Garden,Subcategory 332,Brand 32,510.87,450.0,2020-11-27,2020-11-27
+P0333,Product 333,Books,Subcategory 333,Brand 33,108.83,298.39,2020-11-28,2020-11-28
+P0334,Product 334,Clothing,Subcategory 334,Brand 34,38.5,469.59,2020-11-29,2020-11-29
+P0335,Product 335,Books,Subcategory 335,Brand 35,992.1,265.71,2020-11-30,2020-11-30
+P0336,Product 336,Toys,Subcategory 336,Brand 36,534.4,269.63,2020-12-01,2020-12-01
+P0337,Product 337,Electronics,Subcategory 337,Brand 37,139.6,283.4,2020-12-02,2020-12-02
+P0338,Product 338,Sports,Subcategory 338,Brand 38,598.04,453.97,2020-12-03,2020-12-03
+P0339,Product 339,Clothing,Subcategory 339,Brand 39,295.34,447.02,2020-12-04,2020-12-04
+P0340,Product 340,Toys,Subcategory 340,Brand 40,246.75,132.21,2020-12-05,2020-12-05
+P0341,Product 341,Electronics,Subcategory 341,Brand 41,159.62,412.35,2020-12-06,2020-12-06
+P0342,Product 342,Home & Garden,Subcategory 342,Brand 42,21.71,369.93,2020-12-07,2020-12-07
+P0343,Product 343,Books,Subcategory 343,Brand 43,193.99,457.51,2020-12-08,2020-12-08
+P0344,Product 344,Beauty,Subcategory 344,Brand 44,576.17,255.9,2020-12-09,2020-12-09
+P0345,Product 345,Sports,Subcategory 345,Brand 45,233.48,281.59,2020-12-10,2020-12-10
+P0346,Product 346,Clothing,Subcategory 346,Brand 46,421.34,66.32,2020-12-11,2020-12-11
+P0347,Product 347,Electronics,Subcategory 347,Brand 47,112.17,480.7,2020-12-12,2020-12-12
+P0348,Product 348,Sports,Subcategory 348,Brand 48,224.97,294.42,2020-12-13,2020-12-13
+P0349,Product 349,Clothing,Subcategory 349,Brand 49,48.07,228.1,2020-12-14,2020-12-14
+P0350,Product 350,Home & Garden,Subcategory 350,Brand 50,128.9,333.12,2020-12-15,2020-12-15
+P0351,Product 351,Home & Garden,Subcategory 351,Brand 1,16.59,112.48,2020-12-16,2020-12-16
+P0352,Product 352,Books,Subcategory 352,Brand 2,214.24,236.64,2020-12-17,2020-12-17
+P0353,Product 353,Sports,Subcategory 353,Brand 3,660.86,74.46,2020-12-18,2020-12-18
+P0354,Product 354,Food,Subcategory 354,Brand 4,267.26,268.27,2020-12-19,2020-12-19
+P0355,Product 355,Toys,Subcategory 355,Brand 5,892.03,451.25,2020-12-20,2020-12-20
+P0356,Product 356,Toys,Subcategory 356,Brand 6,815.74,260.52,2020-12-21,2020-12-21
+P0357,Product 357,Clothing,Subcategory 357,Brand 7,851.65,286.19,2020-12-22,2020-12-22
+P0358,Product 358,Books,Subcategory 358,Brand 8,841.07,19.49,2020-12-23,2020-12-23
+P0359,Product 359,Beauty,Subcategory 359,Brand 9,917.11,14.22,2020-12-24,2020-12-24
+P0360,Product 360,Clothing,Subcategory 360,Brand 10,556.19,72.97,2020-12-25,2020-12-25
+P0361,Product 361,Beauty,Subcategory 361,Brand 11,798.48,39.2,2020-12-26,2020-12-26
+P0362,Product 362,Home & Garden,Subcategory 362,Brand 12,421.11,39.14,2020-12-27,2020-12-27
+P0363,Product 363,Electronics,Subcategory 363,Brand 13,852.33,31.56,2020-12-28,2020-12-28
+P0364,Product 364,Beauty,Subcategory 364,Brand 14,484.65,205.62,2020-12-29,2020-12-29
+P0365,Product 365,Food,Subcategory 365,Brand 15,864.01,149.65,2020-12-30,2020-12-30
+P0366,Product 366,Beauty,Subcategory 366,Brand 16,587.9,242.37,2020-12-31,2020-12-31
+P0367,Product 367,Toys,Subcategory 367,Brand 17,334.08,45.91,2021-01-01,2021-01-01
+P0368,Product 368,Electronics,Subcategory 368,Brand 18,677.92,14.62,2021-01-02,2021-01-02
+P0369,Product 369,Home & Garden,Subcategory 369,Brand 19,97.95,479.91,2021-01-03,2021-01-03
+P0370,Product 370,Toys,Subcategory 370,Brand 20,389.35,447.81,2021-01-04,2021-01-04
+P0371,Product 371,Books,Subcategory 371,Brand 21,707.75,344.37,2021-01-05,2021-01-05
+P0372,Product 372,Sports,Subcategory 372,Brand 22,337.08,76.25,2021-01-06,2021-01-06
+P0373,Product 373,Food,Subcategory 373,Brand 23,400.57,80.55,2021-01-07,2021-01-07
+P0374,Product 374,Sports,Subcategory 374,Brand 24,592.53,128.97,2021-01-08,2021-01-08
+P0375,Product 375,Sports,Subcategory 375,Brand 25,964.37,80.95,2021-01-09,2021-01-09
+P0376,Product 376,Food,Subcategory 376,Brand 26,13.58,477.8,2021-01-10,2021-01-10
+P0377,Product 377,Electronics,Subcategory 377,Brand 27,697.47,223.86,2021-01-11,2021-01-11
+P0378,Product 378,Clothing,Subcategory 378,Brand 28,481.51,117.43,2021-01-12,2021-01-12
+P0379,Product 379,Home & Garden,Subcategory 379,Brand 29,289.38,249.44,2021-01-13,2021-01-13
+P0380,Product 380,Toys,Subcategory 380,Brand 30,599.33,72.02,2021-01-14,2021-01-14
+P0381,Product 381,Beauty,Subcategory 381,Brand 31,401.04,478.88,2021-01-15,2021-01-15
+P0382,Product 382,Sports,Subcategory 382,Brand 32,42.89,371.94,2021-01-16,2021-01-16
+P0383,Product 383,Beauty,Subcategory 383,Brand 33,789.73,380.33,2021-01-17,2021-01-17
+P0384,Product 384,Books,Subcategory 384,Brand 34,231.43,187.19,2021-01-18,2021-01-18
+P0385,Product 385,Electronics,Subcategory 385,Brand 35,268.58,55.28,2021-01-19,2021-01-19
+P0386,Product 386,Food,Subcategory 386,Brand 36,924.83,170.73,2021-01-20,2021-01-20
+P0387,Product 387,Sports,Subcategory 387,Brand 37,971.68,436.65,2021-01-21,2021-01-21
+P0388,Product 388,Sports,Subcategory 388,Brand 38,913.96,487.53,2021-01-22,2021-01-22
+P0389,Product 389,Food,Subcategory 389,Brand 39,998.2,26.71,2021-01-23,2021-01-23
+P0390,Product 390,Electronics,Subcategory 390,Brand 40,690.77,153.69,2021-01-24,2021-01-24
+P0391,Product 391,Electronics,Subcategory 391,Brand 41,202.49,429.72,2021-01-25,2021-01-25
+P0392,Product 392,Home & Garden,Subcategory 392,Brand 42,262.12,210.34,2021-01-26,2021-01-26
+P0393,Product 393,Food,Subcategory 393,Brand 43,854.54,315.3,2021-01-27,2021-01-27
+P0394,Product 394,Sports,Subcategory 394,Brand 44,557.93,386.49,2021-01-28,2021-01-28
+P0395,Product 395,Food,Subcategory 395,Brand 45,526.25,352.05,2021-01-29,2021-01-29
+P0396,Product 396,Sports,Subcategory 396,Brand 46,276.34,322.21,2021-01-30,2021-01-30
+P0397,Product 397,Toys,Subcategory 397,Brand 47,376.02,336.25,2021-01-31,2021-01-31
+P0398,Product 398,Sports,Subcategory 398,Brand 48,216.86,160.19,2021-02-01,2021-02-01
+P0399,Product 399,Clothing,Subcategory 399,Brand 49,846.31,282.49,2021-02-02,2021-02-02
+P0400,Product 400,Books,Subcategory 400,Brand 50,344.84,458.76,2021-02-03,2021-02-03
+P0401,Product 401,Clothing,Subcategory 401,Brand 1,532.51,77.56,2021-02-04,2021-02-04
+P0402,Product 402,Sports,Subcategory 402,Brand 2,18.97,23.84,2021-02-05,2021-02-05
+P0403,Product 403,Books,Subcategory 403,Brand 3,485.14,266.56,2021-02-06,2021-02-06
+P0404,Product 404,Beauty,Subcategory 404,Brand 4,746.2,427.79,2021-02-07,2021-02-07
+P0405,Product 405,Sports,Subcategory 405,Brand 5,626.83,204.54,2021-02-08,2021-02-08
+P0406,Product 406,Sports,Subcategory 406,Brand 6,49.43,124.65,2021-02-09,2021-02-09
+P0407,Product 407,Beauty,Subcategory 407,Brand 7,890.19,32.09,2021-02-10,2021-02-10
+P0408,Product 408,Beauty,Subcategory 408,Brand 8,496.01,208.96,2021-02-11,2021-02-11
+P0409,Product 409,Books,Subcategory 409,Brand 9,701.5,152.39,2021-02-12,2021-02-12
+P0410,Product 410,Food,Subcategory 410,Brand 10,579.45,231.93,2021-02-13,2021-02-13
+P0411,Product 411,Books,Subcategory 411,Brand 11,711.27,385.63,2021-02-14,2021-02-14
+P0412,Product 412,Sports,Subcategory 412,Brand 12,231.04,200.54,2021-02-15,2021-02-15
+P0413,Product 413,Toys,Subcategory 413,Brand 13,213.41,305.63,2021-02-16,2021-02-16
+P0414,Product 414,Books,Subcategory 414,Brand 14,763.4,208.48,2021-02-17,2021-02-17
+P0415,Product 415,Home & Garden,Subcategory 415,Brand 15,54.11,218.26,2021-02-18,2021-02-18
+P0416,Product 416,Clothing,Subcategory 416,Brand 16,703.7,473.44,2021-02-19,2021-02-19
+P0417,Product 417,Books,Subcategory 417,Brand 17,797.53,442.36,2021-02-20,2021-02-20
+P0418,Product 418,Books,Subcategory 418,Brand 18,858.28,29.43,2021-02-21,2021-02-21
+P0419,Product 419,Toys,Subcategory 419,Brand 19,898.68,368.13,2021-02-22,2021-02-22
+P0420,Product 420,Food,Subcategory 420,Brand 20,371.19,436.8,2021-02-23,2021-02-23
+P0421,Product 421,Food,Subcategory 421,Brand 21,43.46,104.79,2021-02-24,2021-02-24
+P0422,Product 422,Home & Garden,Subcategory 422,Brand 22,789.78,94.45,2021-02-25,2021-02-25
+P0423,Product 423,Food,Subcategory 423,Brand 23,355.05,234.07,2021-02-26,2021-02-26
+P0424,Product 424,Books,Subcategory 424,Brand 24,726.57,64.09,2021-02-27,2021-02-27
+P0425,Product 425,Toys,Subcategory 425,Brand 25,860.37,486.66,2021-02-28,2021-02-28
+P0426,Product 426,Food,Subcategory 426,Brand 26,548.01,242.62,2021-03-01,2021-03-01
+P0427,Product 427,Food,Subcategory 427,Brand 27,464.68,32.49,2021-03-02,2021-03-02
+P0428,Product 428,Toys,Subcategory 428,Brand 28,170.44,282.91,2021-03-03,2021-03-03
+P0429,Product 429,Toys,Subcategory 429,Brand 29,615.93,223.68,2021-03-04,2021-03-04
+P0430,Product 430,Toys,Subcategory 430,Brand 30,370.89,96.41,2021-03-05,2021-03-05
+P0431,Product 431,Food,Subcategory 431,Brand 31,423.21,173.26,2021-03-06,2021-03-06
+P0432,Product 432,Sports,Subcategory 432,Brand 32,710.94,402.6,2021-03-07,2021-03-07
+P0433,Product 433,Food,Subcategory 433,Brand 33,937.33,22.92,2021-03-08,2021-03-08
+P0434,Product 434,Clothing,Subcategory 434,Brand 34,619.84,481.28,2021-03-09,2021-03-09
+P0435,Product 435,Beauty,Subcategory 435,Brand 35,591.94,165.57,2021-03-10,2021-03-10
+P0436,Product 436,Beauty,Subcategory 436,Brand 36,454.88,206.77,2021-03-11,2021-03-11
+P0437,Product 437,Food,Subcategory 437,Brand 37,557.12,50.67,2021-03-12,2021-03-12
+P0438,Product 438,Electronics,Subcategory 438,Brand 38,556.57,233.73,2021-03-13,2021-03-13
+P0439,Product 439,Sports,Subcategory 439,Brand 39,596.39,92.9,2021-03-14,2021-03-14
+P0440,Product 440,Food,Subcategory 440,Brand 40,331.38,357.02,2021-03-15,2021-03-15
+P0441,Product 441,Sports,Subcategory 441,Brand 41,485.49,107.22,2021-03-16,2021-03-16
+P0442,Product 442,Toys,Subcategory 442,Brand 42,672.42,261.76,2021-03-17,2021-03-17
+P0443,Product 443,Books,Subcategory 443,Brand 43,16.47,36.97,2021-03-18,2021-03-18
+P0444,Product 444,Electronics,Subcategory 444,Brand 44,437.72,166.01,2021-03-19,2021-03-19
+P0445,Product 445,Toys,Subcategory 445,Brand 45,770.19,480.94,2021-03-20,2021-03-20
+P0446,Product 446,Clothing,Subcategory 446,Brand 46,287.0,392.11,2021-03-21,2021-03-21
+P0447,Product 447,Sports,Subcategory 447,Brand 47,316.4,427.26,2021-03-22,2021-03-22
+P0448,Product 448,Electronics,Subcategory 448,Brand 48,540.21,194.76,2021-03-23,2021-03-23
+P0449,Product 449,Books,Subcategory 449,Brand 49,905.41,218.77,2021-03-24,2021-03-24
+P0450,Product 450,Books,Subcategory 450,Brand 50,242.51,211.5,2021-03-25,2021-03-25
+P0451,Product 451,Home & Garden,Subcategory 451,Brand 1,433.76,152.09,2021-03-26,2021-03-26
+P0452,Product 452,Electronics,Subcategory 452,Brand 2,625.91,226.76,2021-03-27,2021-03-27
+P0453,Product 453,Beauty,Subcategory 453,Brand 3,651.47,400.78,2021-03-28,2021-03-28
+P0454,Product 454,Electronics,Subcategory 454,Brand 4,270.37,367.17,2021-03-29,2021-03-29
+P0455,Product 455,Toys,Subcategory 455,Brand 5,304.59,193.78,2021-03-30,2021-03-30
+P0456,Product 456,Books,Subcategory 456,Brand 6,85.07,303.18,2021-03-31,2021-03-31
+P0457,Product 457,Home & Garden,Subcategory 457,Brand 7,237.99,54.27,2021-04-01,2021-04-01
+P0458,Product 458,Beauty,Subcategory 458,Brand 8,625.3,246.32,2021-04-02,2021-04-02
+P0459,Product 459,Food,Subcategory 459,Brand 9,887.53,85.81,2021-04-03,2021-04-03
+P0460,Product 460,Food,Subcategory 460,Brand 10,714.32,433.52,2021-04-04,2021-04-04
+P0461,Product 461,Sports,Subcategory 461,Brand 11,711.25,384.01,2021-04-05,2021-04-05
+P0462,Product 462,Toys,Subcategory 462,Brand 12,503.58,317.18,2021-04-06,2021-04-06
+P0463,Product 463,Electronics,Subcategory 463,Brand 13,990.5,160.79,2021-04-07,2021-04-07
+P0464,Product 464,Food,Subcategory 464,Brand 14,366.17,362.48,2021-04-08,2021-04-08
+P0465,Product 465,Home & Garden,Subcategory 465,Brand 15,355.04,493.64,2021-04-09,2021-04-09
+P0466,Product 466,Clothing,Subcategory 466,Brand 16,27.72,164.58,2021-04-10,2021-04-10
+P0467,Product 467,Toys,Subcategory 467,Brand 17,990.8,376.06,2021-04-11,2021-04-11
+P0468,Product 468,Books,Subcategory 468,Brand 18,413.14,391.0,2021-04-12,2021-04-12
+P0469,Product 469,Sports,Subcategory 469,Brand 19,100.2,393.65,2021-04-13,2021-04-13
+P0470,Product 470,Clothing,Subcategory 470,Brand 20,22.27,85.49,2021-04-14,2021-04-14
+P0471,Product 471,Food,Subcategory 471,Brand 21,484.3,152.21,2021-04-15,2021-04-15
+P0472,Product 472,Sports,Subcategory 472,Brand 22,262.51,127.72,2021-04-16,2021-04-16
+P0473,Product 473,Clothing,Subcategory 473,Brand 23,23.77,463.21,2021-04-17,2021-04-17
+P0474,Product 474,Sports,Subcategory 474,Brand 24,931.52,235.66,2021-04-18,2021-04-18
+P0475,Product 475,Sports,Subcategory 475,Brand 25,771.67,395.23,2021-04-19,2021-04-19
+P0476,Product 476,Electronics,Subcategory 476,Brand 26,946.81,396.27,2021-04-20,2021-04-20
+P0477,Product 477,Clothing,Subcategory 477,Brand 27,592.7,180.55,2021-04-21,2021-04-21
+P0478,Product 478,Sports,Subcategory 478,Brand 28,545.81,153.13,2021-04-22,2021-04-22
+P0479,Product 479,Electronics,Subcategory 479,Brand 29,824.57,413.99,2021-04-23,2021-04-23
+P0480,Product 480,Toys,Subcategory 480,Brand 30,600.21,52.05,2021-04-24,2021-04-24
+P0481,Product 481,Home & Garden,Subcategory 481,Brand 31,613.03,73.64,2021-04-25,2021-04-25
+P0482,Product 482,Home & Garden,Subcategory 482,Brand 32,373.33,463.62,2021-04-26,2021-04-26
+P0483,Product 483,Home & Garden,Subcategory 483,Brand 33,764.32,441.22,2021-04-27,2021-04-27
+P0484,Product 484,Electronics,Subcategory 484,Brand 34,172.34,108.33,2021-04-28,2021-04-28
+P0485,Product 485,Clothing,Subcategory 485,Brand 35,92.77,417.24,2021-04-29,2021-04-29
+P0486,Product 486,Clothing,Subcategory 486,Brand 36,532.34,126.56,2021-04-30,2021-04-30
+P0487,Product 487,Toys,Subcategory 487,Brand 37,848.57,455.34,2021-05-01,2021-05-01
+P0488,Product 488,Toys,Subcategory 488,Brand 38,694.54,147.19,2021-05-02,2021-05-02
+P0489,Product 489,Electronics,Subcategory 489,Brand 39,482.78,68.82,2021-05-03,2021-05-03
+P0490,Product 490,Sports,Subcategory 490,Brand 40,342.25,136.44,2021-05-04,2021-05-04
+P0491,Product 491,Sports,Subcategory 491,Brand 41,654.72,248.02,2021-05-05,2021-05-05
+P0492,Product 492,Books,Subcategory 492,Brand 42,818.66,153.7,2021-05-06,2021-05-06
+P0493,Product 493,Home & Garden,Subcategory 493,Brand 43,651.57,469.27,2021-05-07,2021-05-07
+P0494,Product 494,Books,Subcategory 494,Brand 44,543.62,312.48,2021-05-08,2021-05-08
+P0495,Product 495,Food,Subcategory 495,Brand 45,611.52,134.29,2021-05-09,2021-05-09
+P0496,Product 496,Electronics,Subcategory 496,Brand 46,741.17,413.8,2021-05-10,2021-05-10
+P0497,Product 497,Electronics,Subcategory 497,Brand 47,355.87,124.83,2021-05-11,2021-05-11
+P0498,Product 498,Sports,Subcategory 498,Brand 48,533.39,440.81,2021-05-12,2021-05-12
+P0499,Product 499,Food,Subcategory 499,Brand 49,71.37,357.39,2021-05-13,2021-05-13
+P0500,Product 500,Clothing,Subcategory 500,Brand 50,282.84,146.78,2021-05-14,2021-05-14
+P0501,Product 501,Home & Garden,Subcategory 501,Brand 1,613.13,413.29,2021-05-15,2021-05-15
+P0502,Product 502,Electronics,Subcategory 502,Brand 2,232.3,240.97,2021-05-16,2021-05-16
+P0503,Product 503,Sports,Subcategory 503,Brand 3,732.76,108.56,2021-05-17,2021-05-17
+P0504,Product 504,Beauty,Subcategory 504,Brand 4,352.06,422.1,2021-05-18,2021-05-18
+P0505,Product 505,Electronics,Subcategory 505,Brand 5,968.55,99.74,2021-05-19,2021-05-19
+P0506,Product 506,Beauty,Subcategory 506,Brand 6,740.45,233.12,2021-05-20,2021-05-20
+P0507,Product 507,Home & Garden,Subcategory 507,Brand 7,11.44,100.29,2021-05-21,2021-05-21
+P0508,Product 508,Toys,Subcategory 508,Brand 8,752.52,52.65,2021-05-22,2021-05-22
+P0509,Product 509,Food,Subcategory 509,Brand 9,154.03,117.16,2021-05-23,2021-05-23
+P0510,Product 510,Food,Subcategory 510,Brand 10,491.46,325.03,2021-05-24,2021-05-24
+P0511,Product 511,Home & Garden,Subcategory 511,Brand 11,301.45,164.47,2021-05-25,2021-05-25
+P0512,Product 512,Beauty,Subcategory 512,Brand 12,377.53,410.34,2021-05-26,2021-05-26
+P0513,Product 513,Home & Garden,Subcategory 513,Brand 13,82.16,325.6,2021-05-27,2021-05-27
+P0514,Product 514,Electronics,Subcategory 514,Brand 14,72.02,11.6,2021-05-28,2021-05-28
+P0515,Product 515,Toys,Subcategory 515,Brand 15,596.86,236.28,2021-05-29,2021-05-29
+P0516,Product 516,Books,Subcategory 516,Brand 16,108.29,68.6,2021-05-30,2021-05-30
+P0517,Product 517,Electronics,Subcategory 517,Brand 17,503.44,159.88,2021-05-31,2021-05-31
+P0518,Product 518,Sports,Subcategory 518,Brand 18,908.21,110.93,2021-06-01,2021-06-01
+P0519,Product 519,Toys,Subcategory 519,Brand 19,350.53,451.08,2021-06-02,2021-06-02
+P0520,Product 520,Sports,Subcategory 520,Brand 20,317.62,243.15,2021-06-03,2021-06-03
+P0521,Product 521,Toys,Subcategory 521,Brand 21,191.98,100.83,2021-06-04,2021-06-04
+P0522,Product 522,Home & Garden,Subcategory 522,Brand 22,596.22,321.33,2021-06-05,2021-06-05
+P0523,Product 523,Sports,Subcategory 523,Brand 23,73.43,492.07,2021-06-06,2021-06-06
+P0524,Product 524,Clothing,Subcategory 524,Brand 24,397.54,415.2,2021-06-07,2021-06-07
+P0525,Product 525,Books,Subcategory 525,Brand 25,632.2,250.26,2021-06-08,2021-06-08
+P0526,Product 526,Food,Subcategory 526,Brand 26,806.74,390.05,2021-06-09,2021-06-09
+P0527,Product 527,Beauty,Subcategory 527,Brand 27,420.56,60.31,2021-06-10,2021-06-10
+P0528,Product 528,Sports,Subcategory 528,Brand 28,607.67,164.1,2021-06-11,2021-06-11
+P0529,Product 529,Sports,Subcategory 529,Brand 29,235.41,146.48,2021-06-12,2021-06-12
+P0530,Product 530,Toys,Subcategory 530,Brand 30,889.7,38.66,2021-06-13,2021-06-13
+P0531,Product 531,Clothing,Subcategory 531,Brand 31,541.13,498.87,2021-06-14,2021-06-14
+P0532,Product 532,Sports,Subcategory 532,Brand 32,576.38,489.11,2021-06-15,2021-06-15
+P0533,Product 533,Electronics,Subcategory 533,Brand 33,914.21,272.6,2021-06-16,2021-06-16
+P0534,Product 534,Books,Subcategory 534,Brand 34,838.46,175.13,2021-06-17,2021-06-17
+P0535,Product 535,Toys,Subcategory 535,Brand 35,814.75,87.14,2021-06-18,2021-06-18
+P0536,Product 536,Beauty,Subcategory 536,Brand 36,525.31,360.58,2021-06-19,2021-06-19
+P0537,Product 537,Books,Subcategory 537,Brand 37,995.43,175.4,2021-06-20,2021-06-20
+P0538,Product 538,Food,Subcategory 538,Brand 38,376.4,306.75,2021-06-21,2021-06-21
+P0539,Product 539,Toys,Subcategory 539,Brand 39,288.9,491.78,2021-06-22,2021-06-22
+P0540,Product 540,Electronics,Subcategory 540,Brand 40,257.18,373.08,2021-06-23,2021-06-23
+P0541,Product 541,Beauty,Subcategory 541,Brand 41,209.2,298.25,2021-06-24,2021-06-24
+P0542,Product 542,Toys,Subcategory 542,Brand 42,829.69,478.29,2021-06-25,2021-06-25
+P0543,Product 543,Home & Garden,Subcategory 543,Brand 43,385.14,345.7,2021-06-26,2021-06-26
+P0544,Product 544,Toys,Subcategory 544,Brand 44,577.13,418.78,2021-06-27,2021-06-27
+P0545,Product 545,Food,Subcategory 545,Brand 45,848.07,333.89,2021-06-28,2021-06-28
+P0546,Product 546,Toys,Subcategory 546,Brand 46,856.81,343.7,2021-06-29,2021-06-29
+P0547,Product 547,Home & Garden,Subcategory 547,Brand 47,788.08,299.24,2021-06-30,2021-06-30
+P0548,Product 548,Books,Subcategory 548,Brand 48,933.17,383.15,2021-07-01,2021-07-01
+P0549,Product 549,Toys,Subcategory 549,Brand 49,471.76,339.11,2021-07-02,2021-07-02
+P0550,Product 550,Food,Subcategory 550,Brand 50,682.49,411.61,2021-07-03,2021-07-03
+P0551,Product 551,Toys,Subcategory 551,Brand 1,290.71,353.91,2021-07-04,2021-07-04
+P0552,Product 552,Electronics,Subcategory 552,Brand 2,948.59,424.4,2021-07-05,2021-07-05
+P0553,Product 553,Electronics,Subcategory 553,Brand 3,612.1,343.08,2021-07-06,2021-07-06
+P0554,Product 554,Beauty,Subcategory 554,Brand 4,135.94,173.82,2021-07-07,2021-07-07
+P0555,Product 555,Food,Subcategory 555,Brand 5,183.28,451.76,2021-07-08,2021-07-08
+P0556,Product 556,Toys,Subcategory 556,Brand 6,96.07,276.68,2021-07-09,2021-07-09
+P0557,Product 557,Home & Garden,Subcategory 557,Brand 7,44.34,111.81,2021-07-10,2021-07-10
+P0558,Product 558,Clothing,Subcategory 558,Brand 8,850.71,87.83,2021-07-11,2021-07-11
+P0559,Product 559,Food,Subcategory 559,Brand 9,668.58,231.74,2021-07-12,2021-07-12
+P0560,Product 560,Food,Subcategory 560,Brand 10,49.61,448.87,2021-07-13,2021-07-13
+P0561,Product 561,Books,Subcategory 561,Brand 11,443.93,149.51,2021-07-14,2021-07-14
+P0562,Product 562,Books,Subcategory 562,Brand 12,446.03,480.59,2021-07-15,2021-07-15
+P0563,Product 563,Electronics,Subcategory 563,Brand 13,790.98,296.57,2021-07-16,2021-07-16
+P0564,Product 564,Beauty,Subcategory 564,Brand 14,741.13,205.38,2021-07-17,2021-07-17
+P0565,Product 565,Sports,Subcategory 565,Brand 15,221.23,190.26,2021-07-18,2021-07-18
+P0566,Product 566,Food,Subcategory 566,Brand 16,995.42,301.88,2021-07-19,2021-07-19
+P0567,Product 567,Home & Garden,Subcategory 567,Brand 17,360.96,145.11,2021-07-20,2021-07-20
+P0568,Product 568,Toys,Subcategory 568,Brand 18,655.39,412.34,2021-07-21,2021-07-21
+P0569,Product 569,Books,Subcategory 569,Brand 19,143.69,314.33,2021-07-22,2021-07-22
+P0570,Product 570,Beauty,Subcategory 570,Brand 20,723.81,388.01,2021-07-23,2021-07-23
+P0571,Product 571,Beauty,Subcategory 571,Brand 21,257.07,475.48,2021-07-24,2021-07-24
+P0572,Product 572,Clothing,Subcategory 572,Brand 22,275.19,473.5,2021-07-25,2021-07-25
+P0573,Product 573,Beauty,Subcategory 573,Brand 23,989.06,253.02,2021-07-26,2021-07-26
+P0574,Product 574,Toys,Subcategory 574,Brand 24,799.42,104.48,2021-07-27,2021-07-27
+P0575,Product 575,Electronics,Subcategory 575,Brand 25,349.82,77.85,2021-07-28,2021-07-28
+P0576,Product 576,Clothing,Subcategory 576,Brand 26,529.9,474.6,2021-07-29,2021-07-29
+P0577,Product 577,Home & Garden,Subcategory 577,Brand 27,341.37,256.73,2021-07-30,2021-07-30
+P0578,Product 578,Sports,Subcategory 578,Brand 28,859.29,182.75,2021-07-31,2021-07-31
+P0579,Product 579,Food,Subcategory 579,Brand 29,571.71,333.62,2021-08-01,2021-08-01
+P0580,Product 580,Food,Subcategory 580,Brand 30,667.47,22.36,2021-08-02,2021-08-02
+P0581,Product 581,Beauty,Subcategory 581,Brand 31,385.15,78.5,2021-08-03,2021-08-03
+P0582,Product 582,Electronics,Subcategory 582,Brand 32,718.13,466.6,2021-08-04,2021-08-04
+P0583,Product 583,Sports,Subcategory 583,Brand 33,818.32,280.05,2021-08-05,2021-08-05
+P0584,Product 584,Books,Subcategory 584,Brand 34,902.2,28.16,2021-08-06,2021-08-06
+P0585,Product 585,Sports,Subcategory 585,Brand 35,989.42,106.13,2021-08-07,2021-08-07
+P0586,Product 586,Food,Subcategory 586,Brand 36,930.75,325.12,2021-08-08,2021-08-08
+P0587,Product 587,Electronics,Subcategory 587,Brand 37,70.7,453.41,2021-08-09,2021-08-09
+P0588,Product 588,Books,Subcategory 588,Brand 38,144.91,36.93,2021-08-10,2021-08-10
+P0589,Product 589,Home & Garden,Subcategory 589,Brand 39,341.89,80.6,2021-08-11,2021-08-11
+P0590,Product 590,Sports,Subcategory 590,Brand 40,852.11,389.35,2021-08-12,2021-08-12
+P0591,Product 591,Toys,Subcategory 591,Brand 41,976.57,482.85,2021-08-13,2021-08-13
+P0592,Product 592,Clothing,Subcategory 592,Brand 42,73.91,415.74,2021-08-14,2021-08-14
+P0593,Product 593,Toys,Subcategory 593,Brand 43,145.07,154.13,2021-08-15,2021-08-15
+P0594,Product 594,Food,Subcategory 594,Brand 44,258.31,450.44,2021-08-16,2021-08-16
+P0595,Product 595,Electronics,Subcategory 595,Brand 45,85.5,350.95,2021-08-17,2021-08-17
+P0596,Product 596,Books,Subcategory 596,Brand 46,773.75,47.64,2021-08-18,2021-08-18
+P0597,Product 597,Toys,Subcategory 597,Brand 47,679.82,36.33,2021-08-19,2021-08-19
+P0598,Product 598,Sports,Subcategory 598,Brand 48,575.01,110.33,2021-08-20,2021-08-20
+P0599,Product 599,Home & Garden,Subcategory 599,Brand 49,406.98,97.81,2021-08-21,2021-08-21
+P0600,Product 600,Clothing,Subcategory 600,Brand 50,878.86,428.72,2021-08-22,2021-08-22
+P0601,Product 601,Beauty,Subcategory 601,Brand 1,928.46,263.54,2021-08-23,2021-08-23
+P0602,Product 602,Home & Garden,Subcategory 602,Brand 2,681.92,402.58,2021-08-24,2021-08-24
+P0603,Product 603,Beauty,Subcategory 603,Brand 3,611.38,291.45,2021-08-25,2021-08-25
+P0604,Product 604,Toys,Subcategory 604,Brand 4,908.15,204.68,2021-08-26,2021-08-26
+P0605,Product 605,Clothing,Subcategory 605,Brand 5,812.76,19.47,2021-08-27,2021-08-27
+P0606,Product 606,Beauty,Subcategory 606,Brand 6,64.29,408.91,2021-08-28,2021-08-28
+P0607,Product 607,Books,Subcategory 607,Brand 7,807.4,184.47,2021-08-29,2021-08-29
+P0608,Product 608,Clothing,Subcategory 608,Brand 8,477.96,10.13,2021-08-30,2021-08-30
+P0609,Product 609,Sports,Subcategory 609,Brand 9,430.3,51.24,2021-08-31,2021-08-31
+P0610,Product 610,Beauty,Subcategory 610,Brand 10,277.73,248.91,2021-09-01,2021-09-01
+P0611,Product 611,Food,Subcategory 611,Brand 11,225.13,460.71,2021-09-02,2021-09-02
+P0612,Product 612,Sports,Subcategory 612,Brand 12,762.91,286.94,2021-09-03,2021-09-03
+P0613,Product 613,Toys,Subcategory 613,Brand 13,624.19,230.68,2021-09-04,2021-09-04
+P0614,Product 614,Books,Subcategory 614,Brand 14,859.69,277.06,2021-09-05,2021-09-05
+P0615,Product 615,Books,Subcategory 615,Brand 15,676.19,158.94,2021-09-06,2021-09-06
+P0616,Product 616,Toys,Subcategory 616,Brand 16,82.02,492.02,2021-09-07,2021-09-07
+P0617,Product 617,Beauty,Subcategory 617,Brand 17,613.06,176.14,2021-09-08,2021-09-08
+P0618,Product 618,Home & Garden,Subcategory 618,Brand 18,260.51,289.62,2021-09-09,2021-09-09
+P0619,Product 619,Home & Garden,Subcategory 619,Brand 19,374.77,412.56,2021-09-10,2021-09-10
+P0620,Product 620,Electronics,Subcategory 620,Brand 20,376.38,286.14,2021-09-11,2021-09-11
+P0621,Product 621,Home & Garden,Subcategory 621,Brand 21,79.63,36.99,2021-09-12,2021-09-12
+P0622,Product 622,Toys,Subcategory 622,Brand 22,491.23,283.83,2021-09-13,2021-09-13
+P0623,Product 623,Clothing,Subcategory 623,Brand 23,58.56,211.5,2021-09-14,2021-09-14
+P0624,Product 624,Toys,Subcategory 624,Brand 24,333.96,364.16,2021-09-15,2021-09-15
+P0625,Product 625,Clothing,Subcategory 625,Brand 25,494.03,85.81,2021-09-16,2021-09-16
+P0626,Product 626,Beauty,Subcategory 626,Brand 26,483.92,39.11,2021-09-17,2021-09-17
+P0627,Product 627,Clothing,Subcategory 627,Brand 27,317.49,453.7,2021-09-18,2021-09-18
+P0628,Product 628,Beauty,Subcategory 628,Brand 28,344.76,379.5,2021-09-19,2021-09-19
+P0629,Product 629,Books,Subcategory 629,Brand 29,137.85,439.91,2021-09-20,2021-09-20
+P0630,Product 630,Clothing,Subcategory 630,Brand 30,28.47,361.4,2021-09-21,2021-09-21
+P0631,Product 631,Beauty,Subcategory 631,Brand 31,37.63,276.63,2021-09-22,2021-09-22
+P0632,Product 632,Electronics,Subcategory 632,Brand 32,680.22,323.08,2021-09-23,2021-09-23
+P0633,Product 633,Home & Garden,Subcategory 633,Brand 33,764.62,39.0,2021-09-24,2021-09-24
+P0634,Product 634,Sports,Subcategory 634,Brand 34,735.85,54.38,2021-09-25,2021-09-25
+P0635,Product 635,Clothing,Subcategory 635,Brand 35,182.67,338.12,2021-09-26,2021-09-26
+P0636,Product 636,Food,Subcategory 636,Brand 36,545.73,169.3,2021-09-27,2021-09-27
+P0637,Product 637,Clothing,Subcategory 637,Brand 37,548.74,299.14,2021-09-28,2021-09-28
+P0638,Product 638,Clothing,Subcategory 638,Brand 38,433.96,218.68,2021-09-29,2021-09-29
+P0639,Product 639,Beauty,Subcategory 639,Brand 39,146.06,315.54,2021-09-30,2021-09-30
+P0640,Product 640,Sports,Subcategory 640,Brand 40,48.2,381.86,2021-10-01,2021-10-01
+P0641,Product 641,Clothing,Subcategory 641,Brand 41,206.89,6.8,2021-10-02,2021-10-02
+P0642,Product 642,Beauty,Subcategory 642,Brand 42,756.06,75.09,2021-10-03,2021-10-03
+P0643,Product 643,Clothing,Subcategory 643,Brand 43,578.14,320.19,2021-10-04,2021-10-04
+P0644,Product 644,Food,Subcategory 644,Brand 44,607.87,33.33,2021-10-05,2021-10-05
+P0645,Product 645,Toys,Subcategory 645,Brand 45,353.7,253.46,2021-10-06,2021-10-06
+P0646,Product 646,Beauty,Subcategory 646,Brand 46,508.17,429.52,2021-10-07,2021-10-07
+P0647,Product 647,Food,Subcategory 647,Brand 47,985.29,249.58,2021-10-08,2021-10-08
+P0648,Product 648,Books,Subcategory 648,Brand 48,543.24,227.19,2021-10-09,2021-10-09
+P0649,Product 649,Electronics,Subcategory 649,Brand 49,922.73,130.23,2021-10-10,2021-10-10
+P0650,Product 650,Beauty,Subcategory 650,Brand 50,211.71,428.83,2021-10-11,2021-10-11
+P0651,Product 651,Electronics,Subcategory 651,Brand 1,114.02,213.34,2021-10-12,2021-10-12
+P0652,Product 652,Books,Subcategory 652,Brand 2,691.07,92.74,2021-10-13,2021-10-13
+P0653,Product 653,Food,Subcategory 653,Brand 3,243.33,341.92,2021-10-14,2021-10-14
+P0654,Product 654,Beauty,Subcategory 654,Brand 4,404.26,31.83,2021-10-15,2021-10-15
+P0655,Product 655,Food,Subcategory 655,Brand 5,671.7,68.37,2021-10-16,2021-10-16
+P0656,Product 656,Home & Garden,Subcategory 656,Brand 6,102.59,498.61,2021-10-17,2021-10-17
+P0657,Product 657,Food,Subcategory 657,Brand 7,561.35,100.16,2021-10-18,2021-10-18
+P0658,Product 658,Beauty,Subcategory 658,Brand 8,37.76,483.21,2021-10-19,2021-10-19
+P0659,Product 659,Sports,Subcategory 659,Brand 9,741.44,429.51,2021-10-20,2021-10-20
+P0660,Product 660,Books,Subcategory 660,Brand 10,731.38,425.87,2021-10-21,2021-10-21
+P0661,Product 661,Toys,Subcategory 661,Brand 11,621.07,493.43,2021-10-22,2021-10-22
+P0662,Product 662,Electronics,Subcategory 662,Brand 12,151.92,171.31,2021-10-23,2021-10-23
+P0663,Product 663,Clothing,Subcategory 663,Brand 13,203.19,362.69,2021-10-24,2021-10-24
+P0664,Product 664,Home & Garden,Subcategory 664,Brand 14,506.38,355.0,2021-10-25,2021-10-25
+P0665,Product 665,Toys,Subcategory 665,Brand 15,915.82,264.94,2021-10-26,2021-10-26
+P0666,Product 666,Toys,Subcategory 666,Brand 16,469.38,123.14,2021-10-27,2021-10-27
+P0667,Product 667,Home & Garden,Subcategory 667,Brand 17,363.85,255.13,2021-10-28,2021-10-28
+P0668,Product 668,Sports,Subcategory 668,Brand 18,613.76,491.73,2021-10-29,2021-10-29
+P0669,Product 669,Toys,Subcategory 669,Brand 19,522.23,365.97,2021-10-30,2021-10-30
+P0670,Product 670,Clothing,Subcategory 670,Brand 20,152.42,277.07,2021-10-31,2021-10-31
+P0671,Product 671,Toys,Subcategory 671,Brand 21,991.2,22.9,2021-11-01,2021-11-01
+P0672,Product 672,Toys,Subcategory 672,Brand 22,28.13,350.21,2021-11-02,2021-11-02
+P0673,Product 673,Beauty,Subcategory 673,Brand 23,752.49,432.26,2021-11-03,2021-11-03
+P0674,Product 674,Books,Subcategory 674,Brand 24,473.31,13.38,2021-11-04,2021-11-04
+P0675,Product 675,Electronics,Subcategory 675,Brand 25,36.98,111.52,2021-11-05,2021-11-05
+P0676,Product 676,Books,Subcategory 676,Brand 26,814.17,310.14,2021-11-06,2021-11-06
+P0677,Product 677,Clothing,Subcategory 677,Brand 27,946.79,352.73,2021-11-07,2021-11-07
+P0678,Product 678,Clothing,Subcategory 678,Brand 28,894.82,317.44,2021-11-08,2021-11-08
+P0679,Product 679,Clothing,Subcategory 679,Brand 29,815.92,151.57,2021-11-09,2021-11-09
+P0680,Product 680,Home & Garden,Subcategory 680,Brand 30,325.66,356.46,2021-11-10,2021-11-10
+P0681,Product 681,Clothing,Subcategory 681,Brand 31,911.78,284.12,2021-11-11,2021-11-11
+P0682,Product 682,Electronics,Subcategory 682,Brand 32,311.96,21.07,2021-11-12,2021-11-12
+P0683,Product 683,Food,Subcategory 683,Brand 33,400.36,478.18,2021-11-13,2021-11-13
+P0684,Product 684,Toys,Subcategory 684,Brand 34,723.21,498.31,2021-11-14,2021-11-14
+P0685,Product 685,Home & Garden,Subcategory 685,Brand 35,498.32,184.92,2021-11-15,2021-11-15
+P0686,Product 686,Food,Subcategory 686,Brand 36,926.76,199.75,2021-11-16,2021-11-16
+P0687,Product 687,Sports,Subcategory 687,Brand 37,216.33,75.6,2021-11-17,2021-11-17
+P0688,Product 688,Home & Garden,Subcategory 688,Brand 38,743.71,189.34,2021-11-18,2021-11-18
+P0689,Product 689,Home & Garden,Subcategory 689,Brand 39,546.6,238.78,2021-11-19,2021-11-19
+P0690,Product 690,Sports,Subcategory 690,Brand 40,78.41,123.59,2021-11-20,2021-11-20
+P0691,Product 691,Electronics,Subcategory 691,Brand 41,130.45,166.17,2021-11-21,2021-11-21
+P0692,Product 692,Beauty,Subcategory 692,Brand 42,905.78,494.11,2021-11-22,2021-11-22
+P0693,Product 693,Home & Garden,Subcategory 693,Brand 43,653.74,302.09,2021-11-23,2021-11-23
+P0694,Product 694,Beauty,Subcategory 694,Brand 44,676.41,14.04,2021-11-24,2021-11-24
+P0695,Product 695,Clothing,Subcategory 695,Brand 45,204.64,254.67,2021-11-25,2021-11-25
+P0696,Product 696,Sports,Subcategory 696,Brand 46,735.83,74.21,2021-11-26,2021-11-26
+P0697,Product 697,Clothing,Subcategory 697,Brand 47,500.66,206.39,2021-11-27,2021-11-27
+P0698,Product 698,Food,Subcategory 698,Brand 48,487.07,243.9,2021-11-28,2021-11-28
+P0699,Product 699,Home & Garden,Subcategory 699,Brand 49,684.17,185.02,2021-11-29,2021-11-29
+P0700,Product 700,Electronics,Subcategory 700,Brand 50,600.25,275.16,2021-11-30,2021-11-30
+P0701,Product 701,Sports,Subcategory 701,Brand 1,310.5,127.75,2021-12-01,2021-12-01
+P0702,Product 702,Books,Subcategory 702,Brand 2,909.28,402.84,2021-12-02,2021-12-02
+P0703,Product 703,Clothing,Subcategory 703,Brand 3,149.44,36.98,2021-12-03,2021-12-03
+P0704,Product 704,Books,Subcategory 704,Brand 4,565.65,486.25,2021-12-04,2021-12-04
+P0705,Product 705,Food,Subcategory 705,Brand 5,881.57,299.0,2021-12-05,2021-12-05
+P0706,Product 706,Books,Subcategory 706,Brand 6,43.16,157.24,2021-12-06,2021-12-06
+P0707,Product 707,Food,Subcategory 707,Brand 7,533.85,451.88,2021-12-07,2021-12-07
+P0708,Product 708,Electronics,Subcategory 708,Brand 8,367.33,137.72,2021-12-08,2021-12-08
+P0709,Product 709,Electronics,Subcategory 709,Brand 9,93.69,190.04,2021-12-09,2021-12-09
+P0710,Product 710,Electronics,Subcategory 710,Brand 10,327.91,147.53,2021-12-10,2021-12-10
+P0711,Product 711,Toys,Subcategory 711,Brand 11,872.99,109.94,2021-12-11,2021-12-11
+P0712,Product 712,Clothing,Subcategory 712,Brand 12,781.69,292.39,2021-12-12,2021-12-12
+P0713,Product 713,Home & Garden,Subcategory 713,Brand 13,725.97,48.83,2021-12-13,2021-12-13
+P0714,Product 714,Clothing,Subcategory 714,Brand 14,260.5,85.94,2021-12-14,2021-12-14
+P0715,Product 715,Electronics,Subcategory 715,Brand 15,843.23,483.76,2021-12-15,2021-12-15
+P0716,Product 716,Books,Subcategory 716,Brand 16,455.91,74.44,2021-12-16,2021-12-16
+P0717,Product 717,Beauty,Subcategory 717,Brand 17,699.48,382.67,2021-12-17,2021-12-17
+P0718,Product 718,Beauty,Subcategory 718,Brand 18,505.39,18.13,2021-12-18,2021-12-18
+P0719,Product 719,Beauty,Subcategory 719,Brand 19,924.66,395.7,2021-12-19,2021-12-19
+P0720,Product 720,Clothing,Subcategory 720,Brand 20,77.63,60.7,2021-12-20,2021-12-20
+P0721,Product 721,Beauty,Subcategory 721,Brand 21,463.9,419.24,2021-12-21,2021-12-21
+P0722,Product 722,Books,Subcategory 722,Brand 22,254.19,125.32,2021-12-22,2021-12-22
+P0723,Product 723,Sports,Subcategory 723,Brand 23,828.17,205.02,2021-12-23,2021-12-23
+P0724,Product 724,Electronics,Subcategory 724,Brand 24,328.67,42.07,2021-12-24,2021-12-24
+P0725,Product 725,Clothing,Subcategory 725,Brand 25,972.59,36.3,2021-12-25,2021-12-25
+P0726,Product 726,Home & Garden,Subcategory 726,Brand 26,334.82,380.84,2021-12-26,2021-12-26
+P0727,Product 727,Books,Subcategory 727,Brand 27,927.64,191.03,2021-12-27,2021-12-27
+P0728,Product 728,Books,Subcategory 728,Brand 28,952.55,15.44,2021-12-28,2021-12-28
+P0729,Product 729,Beauty,Subcategory 729,Brand 29,403.7,247.41,2021-12-29,2021-12-29
+P0730,Product 730,Beauty,Subcategory 730,Brand 30,507.4,360.82,2021-12-30,2021-12-30
+P0731,Product 731,Sports,Subcategory 731,Brand 31,782.59,221.83,2021-12-31,2021-12-31
+P0732,Product 732,Sports,Subcategory 732,Brand 32,693.89,42.31,2022-01-01,2022-01-01
+P0733,Product 733,Books,Subcategory 733,Brand 33,518.78,44.01,2022-01-02,2022-01-02
+P0734,Product 734,Books,Subcategory 734,Brand 34,708.29,467.6,2022-01-03,2022-01-03
+P0735,Product 735,Books,Subcategory 735,Brand 35,734.71,230.14,2022-01-04,2022-01-04
+P0736,Product 736,Toys,Subcategory 736,Brand 36,627.12,22.98,2022-01-05,2022-01-05
+P0737,Product 737,Toys,Subcategory 737,Brand 37,333.44,453.93,2022-01-06,2022-01-06
+P0738,Product 738,Clothing,Subcategory 738,Brand 38,318.43,248.65,2022-01-07,2022-01-07
+P0739,Product 739,Food,Subcategory 739,Brand 39,473.75,62.84,2022-01-08,2022-01-08
+P0740,Product 740,Home & Garden,Subcategory 740,Brand 40,616.22,243.19,2022-01-09,2022-01-09
+P0741,Product 741,Toys,Subcategory 741,Brand 41,72.16,261.54,2022-01-10,2022-01-10
+P0742,Product 742,Books,Subcategory 742,Brand 42,634.03,37.19,2022-01-11,2022-01-11
+P0743,Product 743,Clothing,Subcategory 743,Brand 43,304.23,140.83,2022-01-12,2022-01-12
+P0744,Product 744,Toys,Subcategory 744,Brand 44,12.5,10.04,2022-01-13,2022-01-13
+P0745,Product 745,Beauty,Subcategory 745,Brand 45,16.62,208.05,2022-01-14,2022-01-14
+P0746,Product 746,Electronics,Subcategory 746,Brand 46,378.17,17.69,2022-01-15,2022-01-15
+P0747,Product 747,Home & Garden,Subcategory 747,Brand 47,108.27,41.63,2022-01-16,2022-01-16
+P0748,Product 748,Beauty,Subcategory 748,Brand 48,565.64,11.53,2022-01-17,2022-01-17
+P0749,Product 749,Food,Subcategory 749,Brand 49,15.86,218.04,2022-01-18,2022-01-18
+P0750,Product 750,Home & Garden,Subcategory 750,Brand 50,908.99,374.62,2022-01-19,2022-01-19
+P0751,Product 751,Beauty,Subcategory 751,Brand 1,765.41,63.03,2022-01-20,2022-01-20
+P0752,Product 752,Beauty,Subcategory 752,Brand 2,444.59,479.33,2022-01-21,2022-01-21
+P0753,Product 753,Books,Subcategory 753,Brand 3,800.68,102.68,2022-01-22,2022-01-22
+P0754,Product 754,Sports,Subcategory 754,Brand 4,952.25,37.63,2022-01-23,2022-01-23
+P0755,Product 755,Home & Garden,Subcategory 755,Brand 5,893.49,283.74,2022-01-24,2022-01-24
+P0756,Product 756,Clothing,Subcategory 756,Brand 6,148.37,193.7,2022-01-25,2022-01-25
+P0757,Product 757,Food,Subcategory 757,Brand 7,278.96,340.7,2022-01-26,2022-01-26
+P0758,Product 758,Electronics,Subcategory 758,Brand 8,312.33,266.07,2022-01-27,2022-01-27
+P0759,Product 759,Beauty,Subcategory 759,Brand 9,182.9,161.94,2022-01-28,2022-01-28
+P0760,Product 760,Food,Subcategory 760,Brand 10,845.37,427.75,2022-01-29,2022-01-29
+P0761,Product 761,Toys,Subcategory 761,Brand 11,87.16,46.05,2022-01-30,2022-01-30
+P0762,Product 762,Home & Garden,Subcategory 762,Brand 12,124.56,199.67,2022-01-31,2022-01-31
+P0763,Product 763,Clothing,Subcategory 763,Brand 13,855.65,38.6,2022-02-01,2022-02-01
+P0764,Product 764,Home & Garden,Subcategory 764,Brand 14,691.75,469.15,2022-02-02,2022-02-02
+P0765,Product 765,Books,Subcategory 765,Brand 15,793.05,385.92,2022-02-03,2022-02-03
+P0766,Product 766,Food,Subcategory 766,Brand 16,528.59,162.16,2022-02-04,2022-02-04
+P0767,Product 767,Sports,Subcategory 767,Brand 17,961.77,247.7,2022-02-05,2022-02-05
+P0768,Product 768,Beauty,Subcategory 768,Brand 18,69.13,384.19,2022-02-06,2022-02-06
+P0769,Product 769,Electronics,Subcategory 769,Brand 19,97.13,366.82,2022-02-07,2022-02-07
+P0770,Product 770,Clothing,Subcategory 770,Brand 20,579.11,261.65,2022-02-08,2022-02-08
+P0771,Product 771,Electronics,Subcategory 771,Brand 21,18.55,411.88,2022-02-09,2022-02-09
+P0772,Product 772,Beauty,Subcategory 772,Brand 22,972.1,266.37,2022-02-10,2022-02-10
+P0773,Product 773,Beauty,Subcategory 773,Brand 23,265.98,142.22,2022-02-11,2022-02-11
+P0774,Product 774,Beauty,Subcategory 774,Brand 24,847.94,184.94,2022-02-12,2022-02-12
+P0775,Product 775,Clothing,Subcategory 775,Brand 25,646.35,427.87,2022-02-13,2022-02-13
+P0776,Product 776,Toys,Subcategory 776,Brand 26,170.39,163.03,2022-02-14,2022-02-14
+P0777,Product 777,Electronics,Subcategory 777,Brand 27,77.3,371.11,2022-02-15,2022-02-15
+P0778,Product 778,Food,Subcategory 778,Brand 28,313.56,367.14,2022-02-16,2022-02-16
+P0779,Product 779,Food,Subcategory 779,Brand 29,744.17,378.86,2022-02-17,2022-02-17
+P0780,Product 780,Books,Subcategory 780,Brand 30,623.58,301.39,2022-02-18,2022-02-18
+P0781,Product 781,Books,Subcategory 781,Brand 31,640.37,118.82,2022-02-19,2022-02-19
+P0782,Product 782,Beauty,Subcategory 782,Brand 32,220.83,181.82,2022-02-20,2022-02-20
+P0783,Product 783,Toys,Subcategory 783,Brand 33,34.42,381.9,2022-02-21,2022-02-21
+P0784,Product 784,Toys,Subcategory 784,Brand 34,797.74,81.6,2022-02-22,2022-02-22
+P0785,Product 785,Food,Subcategory 785,Brand 35,83.17,236.06,2022-02-23,2022-02-23
+P0786,Product 786,Books,Subcategory 786,Brand 36,780.32,277.7,2022-02-24,2022-02-24
+P0787,Product 787,Electronics,Subcategory 787,Brand 37,428.56,291.89,2022-02-25,2022-02-25
+P0788,Product 788,Beauty,Subcategory 788,Brand 38,468.25,375.82,2022-02-26,2022-02-26
+P0789,Product 789,Food,Subcategory 789,Brand 39,514.82,147.13,2022-02-27,2022-02-27
+P0790,Product 790,Books,Subcategory 790,Brand 40,430.89,222.37,2022-02-28,2022-02-28
+P0791,Product 791,Clothing,Subcategory 791,Brand 41,493.64,257.73,2022-03-01,2022-03-01
+P0792,Product 792,Toys,Subcategory 792,Brand 42,993.49,103.3,2022-03-02,2022-03-02
+P0793,Product 793,Books,Subcategory 793,Brand 43,792.9,245.96,2022-03-03,2022-03-03
+P0794,Product 794,Food,Subcategory 794,Brand 44,810.02,208.95,2022-03-04,2022-03-04
+P0795,Product 795,Beauty,Subcategory 795,Brand 45,889.02,103.39,2022-03-05,2022-03-05
+P0796,Product 796,Sports,Subcategory 796,Brand 46,485.89,247.79,2022-03-06,2022-03-06
+P0797,Product 797,Electronics,Subcategory 797,Brand 47,842.92,278.91,2022-03-07,2022-03-07
+P0798,Product 798,Electronics,Subcategory 798,Brand 48,907.12,287.45,2022-03-08,2022-03-08
+P0799,Product 799,Sports,Subcategory 799,Brand 49,251.78,157.49,2022-03-09,2022-03-09
+P0800,Product 800,Beauty,Subcategory 800,Brand 50,31.1,492.7,2022-03-10,2022-03-10
+P0801,Product 801,Toys,Subcategory 801,Brand 1,668.54,140.94,2022-03-11,2022-03-11
+P0802,Product 802,Toys,Subcategory 802,Brand 2,904.55,352.34,2022-03-12,2022-03-12
+P0803,Product 803,Beauty,Subcategory 803,Brand 3,124.12,460.39,2022-03-13,2022-03-13
+P0804,Product 804,Food,Subcategory 804,Brand 4,371.75,383.42,2022-03-14,2022-03-14
+P0805,Product 805,Books,Subcategory 805,Brand 5,387.48,407.59,2022-03-15,2022-03-15
+P0806,Product 806,Clothing,Subcategory 806,Brand 6,944.64,40.91,2022-03-16,2022-03-16
+P0807,Product 807,Food,Subcategory 807,Brand 7,169.54,91.05,2022-03-17,2022-03-17
+P0808,Product 808,Beauty,Subcategory 808,Brand 8,432.1,493.94,2022-03-18,2022-03-18
+P0809,Product 809,Toys,Subcategory 809,Brand 9,80.33,326.22,2022-03-19,2022-03-19
+P0810,Product 810,Sports,Subcategory 810,Brand 10,411.04,433.49,2022-03-20,2022-03-20
+P0811,Product 811,Home & Garden,Subcategory 811,Brand 11,771.77,10.65,2022-03-21,2022-03-21
+P0812,Product 812,Food,Subcategory 812,Brand 12,667.3,397.81,2022-03-22,2022-03-22
+P0813,Product 813,Sports,Subcategory 813,Brand 13,934.19,338.8,2022-03-23,2022-03-23
+P0814,Product 814,Home & Garden,Subcategory 814,Brand 14,886.4,387.1,2022-03-24,2022-03-24
+P0815,Product 815,Books,Subcategory 815,Brand 15,180.59,63.88,2022-03-25,2022-03-25
+P0816,Product 816,Toys,Subcategory 816,Brand 16,768.64,404.37,2022-03-26,2022-03-26
+P0817,Product 817,Books,Subcategory 817,Brand 17,53.77,485.39,2022-03-27,2022-03-27
+P0818,Product 818,Electronics,Subcategory 818,Brand 18,341.31,306.82,2022-03-28,2022-03-28
+P0819,Product 819,Clothing,Subcategory 819,Brand 19,718.39,206.48,2022-03-29,2022-03-29
+P0820,Product 820,Clothing,Subcategory 820,Brand 20,749.18,65.42,2022-03-30,2022-03-30
+P0821,Product 821,Electronics,Subcategory 821,Brand 21,244.76,127.08,2022-03-31,2022-03-31
+P0822,Product 822,Home & Garden,Subcategory 822,Brand 22,986.81,184.46,2022-04-01,2022-04-01
+P0823,Product 823,Toys,Subcategory 823,Brand 23,770.66,44.21,2022-04-02,2022-04-02
+P0824,Product 824,Clothing,Subcategory 824,Brand 24,286.81,140.57,2022-04-03,2022-04-03
+P0825,Product 825,Clothing,Subcategory 825,Brand 25,366.77,352.53,2022-04-04,2022-04-04
+P0826,Product 826,Electronics,Subcategory 826,Brand 26,485.07,482.52,2022-04-05,2022-04-05
+P0827,Product 827,Sports,Subcategory 827,Brand 27,672.05,330.51,2022-04-06,2022-04-06
+P0828,Product 828,Toys,Subcategory 828,Brand 28,154.61,473.48,2022-04-07,2022-04-07
+P0829,Product 829,Sports,Subcategory 829,Brand 29,178.31,160.35,2022-04-08,2022-04-08
+P0830,Product 830,Clothing,Subcategory 830,Brand 30,536.36,177.71,2022-04-09,2022-04-09
+P0831,Product 831,Sports,Subcategory 831,Brand 31,295.48,246.39,2022-04-10,2022-04-10
+P0832,Product 832,Sports,Subcategory 832,Brand 32,591.63,359.09,2022-04-11,2022-04-11
+P0833,Product 833,Food,Subcategory 833,Brand 33,835.05,366.99,2022-04-12,2022-04-12
+P0834,Product 834,Electronics,Subcategory 834,Brand 34,855.9,64.12,2022-04-13,2022-04-13
+P0835,Product 835,Toys,Subcategory 835,Brand 35,992.64,175.45,2022-04-14,2022-04-14
+P0836,Product 836,Clothing,Subcategory 836,Brand 36,278.91,84.73,2022-04-15,2022-04-15
+P0837,Product 837,Food,Subcategory 837,Brand 37,622.67,330.43,2022-04-16,2022-04-16
+P0838,Product 838,Electronics,Subcategory 838,Brand 38,194.94,118.34,2022-04-17,2022-04-17
+P0839,Product 839,Sports,Subcategory 839,Brand 39,712.67,129.85,2022-04-18,2022-04-18
+P0840,Product 840,Beauty,Subcategory 840,Brand 40,309.19,388.13,2022-04-19,2022-04-19
+P0841,Product 841,Toys,Subcategory 841,Brand 41,399.89,331.86,2022-04-20,2022-04-20
+P0842,Product 842,Sports,Subcategory 842,Brand 42,328.98,147.38,2022-04-21,2022-04-21
+P0843,Product 843,Home & Garden,Subcategory 843,Brand 43,497.67,107.05,2022-04-22,2022-04-22
+P0844,Product 844,Food,Subcategory 844,Brand 44,922.44,28.42,2022-04-23,2022-04-23
+P0845,Product 845,Books,Subcategory 845,Brand 45,388.11,122.81,2022-04-24,2022-04-24
+P0846,Product 846,Clothing,Subcategory 846,Brand 46,152.33,334.93,2022-04-25,2022-04-25
+P0847,Product 847,Books,Subcategory 847,Brand 47,972.84,457.82,2022-04-26,2022-04-26
+P0848,Product 848,Books,Subcategory 848,Brand 48,423.86,229.23,2022-04-27,2022-04-27
+P0849,Product 849,Home & Garden,Subcategory 849,Brand 49,308.87,124.45,2022-04-28,2022-04-28
+P0850,Product 850,Books,Subcategory 850,Brand 50,58.72,163.6,2022-04-29,2022-04-29
+P0851,Product 851,Sports,Subcategory 851,Brand 1,295.07,287.07,2022-04-30,2022-04-30
+P0852,Product 852,Toys,Subcategory 852,Brand 2,519.1,87.42,2022-05-01,2022-05-01
+P0853,Product 853,Clothing,Subcategory 853,Brand 3,696.88,295.64,2022-05-02,2022-05-02
+P0854,Product 854,Clothing,Subcategory 854,Brand 4,770.95,34.44,2022-05-03,2022-05-03
+P0855,Product 855,Clothing,Subcategory 855,Brand 5,856.5,112.36,2022-05-04,2022-05-04
+P0856,Product 856,Books,Subcategory 856,Brand 6,372.76,216.89,2022-05-05,2022-05-05
+P0857,Product 857,Sports,Subcategory 857,Brand 7,379.55,410.53,2022-05-06,2022-05-06
+P0858,Product 858,Beauty,Subcategory 858,Brand 8,684.16,295.69,2022-05-07,2022-05-07
+P0859,Product 859,Electronics,Subcategory 859,Brand 9,962.69,466.92,2022-05-08,2022-05-08
+P0860,Product 860,Home & Garden,Subcategory 860,Brand 10,18.61,123.94,2022-05-09,2022-05-09
+P0861,Product 861,Sports,Subcategory 861,Brand 11,274.62,270.74,2022-05-10,2022-05-10
+P0862,Product 862,Electronics,Subcategory 862,Brand 12,100.3,85.76,2022-05-11,2022-05-11
+P0863,Product 863,Toys,Subcategory 863,Brand 13,785.78,111.45,2022-05-12,2022-05-12
+P0864,Product 864,Toys,Subcategory 864,Brand 14,251.63,244.93,2022-05-13,2022-05-13
+P0865,Product 865,Toys,Subcategory 865,Brand 15,124.25,409.12,2022-05-14,2022-05-14
+P0866,Product 866,Toys,Subcategory 866,Brand 16,392.85,183.61,2022-05-15,2022-05-15
+P0867,Product 867,Electronics,Subcategory 867,Brand 17,92.49,159.36,2022-05-16,2022-05-16
+P0868,Product 868,Clothing,Subcategory 868,Brand 18,386.75,24.32,2022-05-17,2022-05-17
+P0869,Product 869,Food,Subcategory 869,Brand 19,303.35,442.23,2022-05-18,2022-05-18
+P0870,Product 870,Food,Subcategory 870,Brand 20,821.46,496.54,2022-05-19,2022-05-19
+P0871,Product 871,Clothing,Subcategory 871,Brand 21,720.15,440.82,2022-05-20,2022-05-20
+P0872,Product 872,Electronics,Subcategory 872,Brand 22,268.34,18.99,2022-05-21,2022-05-21
+P0873,Product 873,Clothing,Subcategory 873,Brand 23,407.96,258.15,2022-05-22,2022-05-22
+P0874,Product 874,Sports,Subcategory 874,Brand 24,401.28,289.84,2022-05-23,2022-05-23
+P0875,Product 875,Toys,Subcategory 875,Brand 25,43.91,398.1,2022-05-24,2022-05-24
+P0876,Product 876,Sports,Subcategory 876,Brand 26,848.57,87.48,2022-05-25,2022-05-25
+P0877,Product 877,Food,Subcategory 877,Brand 27,919.35,422.35,2022-05-26,2022-05-26
+P0878,Product 878,Beauty,Subcategory 878,Brand 28,289.38,258.45,2022-05-27,2022-05-27
+P0879,Product 879,Toys,Subcategory 879,Brand 29,41.08,422.44,2022-05-28,2022-05-28
+P0880,Product 880,Books,Subcategory 880,Brand 30,439.93,356.13,2022-05-29,2022-05-29
+P0881,Product 881,Books,Subcategory 881,Brand 31,279.1,495.71,2022-05-30,2022-05-30
+P0882,Product 882,Food,Subcategory 882,Brand 32,46.29,259.03,2022-05-31,2022-05-31
+P0883,Product 883,Toys,Subcategory 883,Brand 33,560.52,414.65,2022-06-01,2022-06-01
+P0884,Product 884,Home & Garden,Subcategory 884,Brand 34,272.31,246.65,2022-06-02,2022-06-02
+P0885,Product 885,Clothing,Subcategory 885,Brand 35,506.45,458.11,2022-06-03,2022-06-03
+P0886,Product 886,Sports,Subcategory 886,Brand 36,681.09,497.54,2022-06-04,2022-06-04
+P0887,Product 887,Beauty,Subcategory 887,Brand 37,885.88,190.85,2022-06-05,2022-06-05
+P0888,Product 888,Books,Subcategory 888,Brand 38,641.68,466.49,2022-06-06,2022-06-06
+P0889,Product 889,Food,Subcategory 889,Brand 39,224.75,163.06,2022-06-07,2022-06-07
+P0890,Product 890,Food,Subcategory 890,Brand 40,94.42,100.42,2022-06-08,2022-06-08
+P0891,Product 891,Beauty,Subcategory 891,Brand 41,167.54,198.89,2022-06-09,2022-06-09
+P0892,Product 892,Food,Subcategory 892,Brand 42,513.58,332.21,2022-06-10,2022-06-10
+P0893,Product 893,Home & Garden,Subcategory 893,Brand 43,197.6,172.95,2022-06-11,2022-06-11
+P0894,Product 894,Electronics,Subcategory 894,Brand 44,886.81,460.25,2022-06-12,2022-06-12
+P0895,Product 895,Beauty,Subcategory 895,Brand 45,773.87,55.51,2022-06-13,2022-06-13
+P0896,Product 896,Clothing,Subcategory 896,Brand 46,508.86,264.72,2022-06-14,2022-06-14
+P0897,Product 897,Beauty,Subcategory 897,Brand 47,648.57,496.38,2022-06-15,2022-06-15
+P0898,Product 898,Books,Subcategory 898,Brand 48,799.25,76.98,2022-06-16,2022-06-16
+P0899,Product 899,Clothing,Subcategory 899,Brand 49,115.09,56.58,2022-06-17,2022-06-17
+P0900,Product 900,Books,Subcategory 900,Brand 50,492.62,191.66,2022-06-18,2022-06-18
+P0901,Product 901,Beauty,Subcategory 901,Brand 1,400.28,454.74,2022-06-19,2022-06-19
+P0902,Product 902,Beauty,Subcategory 902,Brand 2,115.09,49.66,2022-06-20,2022-06-20
+P0903,Product 903,Food,Subcategory 903,Brand 3,673.93,381.73,2022-06-21,2022-06-21
+P0904,Product 904,Sports,Subcategory 904,Brand 4,131.12,246.0,2022-06-22,2022-06-22
+P0905,Product 905,Food,Subcategory 905,Brand 5,74.18,287.61,2022-06-23,2022-06-23
+P0906,Product 906,Food,Subcategory 906,Brand 6,355.65,82.28,2022-06-24,2022-06-24
+P0907,Product 907,Beauty,Subcategory 907,Brand 7,29.0,362.82,2022-06-25,2022-06-25
+P0908,Product 908,Beauty,Subcategory 908,Brand 8,590.06,240.0,2022-06-26,2022-06-26
+P0909,Product 909,Sports,Subcategory 909,Brand 9,357.46,137.14,2022-06-27,2022-06-27
+P0910,Product 910,Electronics,Subcategory 910,Brand 10,603.01,240.51,2022-06-28,2022-06-28
+P0911,Product 911,Food,Subcategory 911,Brand 11,603.38,126.64,2022-06-29,2022-06-29
+P0912,Product 912,Books,Subcategory 912,Brand 12,417.59,127.39,2022-06-30,2022-06-30
+P0913,Product 913,Clothing,Subcategory 913,Brand 13,155.47,177.48,2022-07-01,2022-07-01
+P0914,Product 914,Electronics,Subcategory 914,Brand 14,72.38,267.82,2022-07-02,2022-07-02
+P0915,Product 915,Home & Garden,Subcategory 915,Brand 15,366.37,89.31,2022-07-03,2022-07-03
+P0916,Product 916,Electronics,Subcategory 916,Brand 16,428.57,100.35,2022-07-04,2022-07-04
+P0917,Product 917,Home & Garden,Subcategory 917,Brand 17,858.79,320.76,2022-07-05,2022-07-05
+P0918,Product 918,Food,Subcategory 918,Brand 18,633.51,150.41,2022-07-06,2022-07-06
+P0919,Product 919,Food,Subcategory 919,Brand 19,707.63,203.46,2022-07-07,2022-07-07
+P0920,Product 920,Electronics,Subcategory 920,Brand 20,234.68,454.23,2022-07-08,2022-07-08
+P0921,Product 921,Food,Subcategory 921,Brand 21,478.82,164.12,2022-07-09,2022-07-09
+P0922,Product 922,Food,Subcategory 922,Brand 22,543.54,341.65,2022-07-10,2022-07-10
+P0923,Product 923,Home & Garden,Subcategory 923,Brand 23,484.74,256.39,2022-07-11,2022-07-11
+P0924,Product 924,Sports,Subcategory 924,Brand 24,973.29,431.58,2022-07-12,2022-07-12
+P0925,Product 925,Sports,Subcategory 925,Brand 25,337.68,199.62,2022-07-13,2022-07-13
+P0926,Product 926,Home & Garden,Subcategory 926,Brand 26,67.58,120.91,2022-07-14,2022-07-14
+P0927,Product 927,Sports,Subcategory 927,Brand 27,291.36,307.64,2022-07-15,2022-07-15
+P0928,Product 928,Beauty,Subcategory 928,Brand 28,722.95,234.17,2022-07-16,2022-07-16
+P0929,Product 929,Food,Subcategory 929,Brand 29,104.11,355.82,2022-07-17,2022-07-17
+P0930,Product 930,Food,Subcategory 930,Brand 30,338.3,493.22,2022-07-18,2022-07-18
+P0931,Product 931,Clothing,Subcategory 931,Brand 31,536.91,56.65,2022-07-19,2022-07-19
+P0932,Product 932,Toys,Subcategory 932,Brand 32,477.47,89.54,2022-07-20,2022-07-20
+P0933,Product 933,Books,Subcategory 933,Brand 33,66.4,164.35,2022-07-21,2022-07-21
+P0934,Product 934,Books,Subcategory 934,Brand 34,458.53,93.7,2022-07-22,2022-07-22
+P0935,Product 935,Sports,Subcategory 935,Brand 35,629.46,268.31,2022-07-23,2022-07-23
+P0936,Product 936,Toys,Subcategory 936,Brand 36,63.36,425.25,2022-07-24,2022-07-24
+P0937,Product 937,Food,Subcategory 937,Brand 37,659.34,448.09,2022-07-25,2022-07-25
+P0938,Product 938,Electronics,Subcategory 938,Brand 38,261.11,200.36,2022-07-26,2022-07-26
+P0939,Product 939,Sports,Subcategory 939,Brand 39,364.76,224.08,2022-07-27,2022-07-27
+P0940,Product 940,Beauty,Subcategory 940,Brand 40,760.78,204.78,2022-07-28,2022-07-28
+P0941,Product 941,Sports,Subcategory 941,Brand 41,338.76,309.89,2022-07-29,2022-07-29
+P0942,Product 942,Food,Subcategory 942,Brand 42,230.35,433.13,2022-07-30,2022-07-30
+P0943,Product 943,Electronics,Subcategory 943,Brand 43,794.94,209.22,2022-07-31,2022-07-31
+P0944,Product 944,Home & Garden,Subcategory 944,Brand 44,815.97,499.92,2022-08-01,2022-08-01
+P0945,Product 945,Clothing,Subcategory 945,Brand 45,611.45,135.52,2022-08-02,2022-08-02
+P0946,Product 946,Home & Garden,Subcategory 946,Brand 46,58.6,409.0,2022-08-03,2022-08-03
+P0947,Product 947,Food,Subcategory 947,Brand 47,286.04,328.93,2022-08-04,2022-08-04
+P0948,Product 948,Toys,Subcategory 948,Brand 48,705.72,24.1,2022-08-05,2022-08-05
+P0949,Product 949,Sports,Subcategory 949,Brand 49,658.4,69.36,2022-08-06,2022-08-06
+P0950,Product 950,Toys,Subcategory 950,Brand 50,607.06,174.6,2022-08-07,2022-08-07
+P0951,Product 951,Food,Subcategory 951,Brand 1,251.41,343.95,2022-08-08,2022-08-08
+P0952,Product 952,Clothing,Subcategory 952,Brand 2,259.29,421.38,2022-08-09,2022-08-09
+P0953,Product 953,Clothing,Subcategory 953,Brand 3,201.29,324.09,2022-08-10,2022-08-10
+P0954,Product 954,Toys,Subcategory 954,Brand 4,692.09,225.43,2022-08-11,2022-08-11
+P0955,Product 955,Electronics,Subcategory 955,Brand 5,762.5,150.06,2022-08-12,2022-08-12
+P0956,Product 956,Food,Subcategory 956,Brand 6,620.37,264.17,2022-08-13,2022-08-13
+P0957,Product 957,Electronics,Subcategory 957,Brand 7,365.4,52.07,2022-08-14,2022-08-14
+P0958,Product 958,Books,Subcategory 958,Brand 8,248.81,163.07,2022-08-15,2022-08-15
+P0959,Product 959,Food,Subcategory 959,Brand 9,39.76,196.51,2022-08-16,2022-08-16
+P0960,Product 960,Electronics,Subcategory 960,Brand 10,579.18,217.66,2022-08-17,2022-08-17
+P0961,Product 961,Beauty,Subcategory 961,Brand 11,273.29,148.14,2022-08-18,2022-08-18
+P0962,Product 962,Sports,Subcategory 962,Brand 12,884.32,248.4,2022-08-19,2022-08-19
+P0963,Product 963,Home & Garden,Subcategory 963,Brand 13,29.73,336.23,2022-08-20,2022-08-20
+P0964,Product 964,Toys,Subcategory 964,Brand 14,83.25,21.51,2022-08-21,2022-08-21
+P0965,Product 965,Electronics,Subcategory 965,Brand 15,839.01,404.52,2022-08-22,2022-08-22
+P0966,Product 966,Electronics,Subcategory 966,Brand 16,723.03,136.52,2022-08-23,2022-08-23
+P0967,Product 967,Food,Subcategory 967,Brand 17,508.78,240.28,2022-08-24,2022-08-24
+P0968,Product 968,Beauty,Subcategory 968,Brand 18,284.64,195.27,2022-08-25,2022-08-25
+P0969,Product 969,Books,Subcategory 969,Brand 19,975.26,490.73,2022-08-26,2022-08-26
+P0970,Product 970,Electronics,Subcategory 970,Brand 20,519.09,472.53,2022-08-27,2022-08-27
+P0971,Product 971,Beauty,Subcategory 971,Brand 21,947.21,96.37,2022-08-28,2022-08-28
+P0972,Product 972,Sports,Subcategory 972,Brand 22,143.71,154.84,2022-08-29,2022-08-29
+P0973,Product 973,Home & Garden,Subcategory 973,Brand 23,440.96,232.82,2022-08-30,2022-08-30
+P0974,Product 974,Home & Garden,Subcategory 974,Brand 24,493.89,81.9,2022-08-31,2022-08-31
+P0975,Product 975,Food,Subcategory 975,Brand 25,765.65,175.96,2022-09-01,2022-09-01
+P0976,Product 976,Sports,Subcategory 976,Brand 26,134.14,68.62,2022-09-02,2022-09-02
+P0977,Product 977,Toys,Subcategory 977,Brand 27,268.76,122.5,2022-09-03,2022-09-03
+P0978,Product 978,Electronics,Subcategory 978,Brand 28,346.94,155.27,2022-09-04,2022-09-04
+P0979,Product 979,Clothing,Subcategory 979,Brand 29,128.31,431.05,2022-09-05,2022-09-05
+P0980,Product 980,Food,Subcategory 980,Brand 30,607.38,195.22,2022-09-06,2022-09-06
+P0981,Product 981,Beauty,Subcategory 981,Brand 31,996.99,184.68,2022-09-07,2022-09-07
+P0982,Product 982,Home & Garden,Subcategory 982,Brand 32,333.49,94.8,2022-09-08,2022-09-08
+P0983,Product 983,Food,Subcategory 983,Brand 33,961.0,426.73,2022-09-09,2022-09-09
+P0984,Product 984,Books,Subcategory 984,Brand 34,574.63,61.98,2022-09-10,2022-09-10
+P0985,Product 985,Books,Subcategory 985,Brand 35,649.66,235.58,2022-09-11,2022-09-11
+P0986,Product 986,Toys,Subcategory 986,Brand 36,979.16,212.59,2022-09-12,2022-09-12
+P0987,Product 987,Beauty,Subcategory 987,Brand 37,368.62,219.55,2022-09-13,2022-09-13
+P0988,Product 988,Beauty,Subcategory 988,Brand 38,215.22,129.37,2022-09-14,2022-09-14
+P0989,Product 989,Books,Subcategory 989,Brand 39,241.48,181.46,2022-09-15,2022-09-15
+P0990,Product 990,Clothing,Subcategory 990,Brand 40,547.06,403.79,2022-09-16,2022-09-16
+P0991,Product 991,Books,Subcategory 991,Brand 41,845.11,137.98,2022-09-17,2022-09-17
+P0992,Product 992,Sports,Subcategory 992,Brand 42,958.47,7.56,2022-09-18,2022-09-18
+P0993,Product 993,Sports,Subcategory 993,Brand 43,109.47,313.28,2022-09-19,2022-09-19
+P0994,Product 994,Food,Subcategory 994,Brand 44,757.44,54.53,2022-09-20,2022-09-20
+P0995,Product 995,Beauty,Subcategory 995,Brand 45,577.83,312.15,2022-09-21,2022-09-21
+P0996,Product 996,Toys,Subcategory 996,Brand 46,10.42,134.69,2022-09-22,2022-09-22
+P0997,Product 997,Toys,Subcategory 997,Brand 47,748.99,478.67,2022-09-23,2022-09-23
+P0998,Product 998,Toys,Subcategory 998,Brand 48,540.77,251.62,2022-09-24,2022-09-24
+P0999,Product 999,Home & Garden,Subcategory 999,Brand 49,823.56,449.63,2022-09-25,2022-09-25
+P1000,Product 1000,Electronics,Subcategory 1000,Brand 50,430.37,11.29,2022-09-26,2022-09-26
